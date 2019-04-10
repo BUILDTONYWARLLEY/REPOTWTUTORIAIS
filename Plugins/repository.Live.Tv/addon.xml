@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Live.Tv" name="[COLOR orange]Live Tv[/COLOR][COLOR white] Repo[/COLOR]" version="1.0" provider-name="Live Tv">
+	<extension point="xbmc.addon.repository" name="Repositorio Live Tv">
+		<info compressed="false">https://addon-live-tv.000webhostapp.com/Repo.Live.TV/addons.xml</info>
+		<checksum>https://addon-live-tv.000webhostapp.com/Repo.Live.TV/addons.xml.md5</checksum>
+		<datadir zip="true">https://addon-live-tv.000webhostapp.com/Repo.Live.TV/Plugins</datadir> 
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <description>[COLOR orange][B]l[/COLOR][/B] Repositorio de instalacao do addon Live Tv[COLOR orange][B]l[/COLOR][/B]</description>
+		<disclaimer lang="en">O addon que sera instalado não hospeda nem possui nenhum conteúdo. O autor não é responsável pelo uso e pelo conteúdo encontrado usando este addon.</disclaimer>
+		<platform>all</platform>
+		<website/>
+        <video_guide></video_guide>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+      <assets>
+      	<icon>icon.png</icon>
+    	<fanart>fanart.jpg</fanart>
+        <screenshot>resources/screenshots/01.jpg</screenshot>
+        <screenshot>resources/screenshots/02.jpg</screenshot>
+        <screenshot>resources/screenshots/03.jpg</screenshot>
+      </assets>
+	</extension>
+</addon>

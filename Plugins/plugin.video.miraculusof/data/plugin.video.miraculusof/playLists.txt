@@ -1,0 +1,8 @@
+[
+    {
+        "url": "https://pastebin.com/raw/BTZGFjCc", 
+        "logos": "special://home/addons/plugin.video.miraculusof/icon.png", 
+        "image": "special://home/addons/plugin.video.miraculusof/icon.png", 
+        "name": "Miraculus Ladybug"
+    }
+]

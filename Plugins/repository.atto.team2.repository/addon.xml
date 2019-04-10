@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+  <addon id="repository.atto.team2.repository"
+         name="[COLOR blue][B]Atto Pixel[/COLOR][COLOR yellow] 4K [/COLOR][COLOR aqua]Repository[/B][/COLOR]"
+         provider-name="Team2Atto"
+         version="0.2.1">
+	<extension point="xbmc.addon.repository" name="Atto - Team2 Repository">
+        	<info compressed="true">http://atto.srv.br/addons/addons.xml</info>
+		<checksum>http://atto.srv.br/addons/addons.xml.md5</checksum>
+        	<datadir zip="true">http://atto.srv.br/addons/</datadir>
+		<hashes>false</hashes>
+	</extension>
+    	<extension point="xbmc.addon.metadata">
+        	<summary>[B][COLOR gold][COLOR red]**ATENÇÃO**[/COLOR] ASSIM QUE VC INSTALAR O REPOSITÓRIO, VÁ NAS INFORMAÇÕES DO REPOSITÓRIO E CLIQUE EM ATUALIZAR E VOLTE PARA VERSÃO 2.1. [COLOR red] SE VC NÃO VOLTAR O REPOSITÓRIO PARA VERSÃO 2.1, VC NÃO CONSEGUIRA INSTALAR NENHUM ADDON, O REPOSITÓRIO 2.3 ESTÁ COM DEFEITO. [/COLOR][/B]</summary>
+        	<description>Atto Pixel, a unica do mercado com o melhor processador Dolby Vision Full HDR 10-bit. Olha a diferença.</description>
+        	<platform>all</platform>
+    	</extension>
+  </addon>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.playtorrents" name="[COLOR lawngreen]Play Torrents[/COLOR]" version="4.0" provider-name="Lojink">
+  <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<!--import addon="script.module.urlresolver" version="2.10.0"/-->
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR lawngreen]Play Torrents[/COLOR]</summary>
+    <description lang="en">ASSISTA FILMES E SÉRIES EM TORRENTS DIRETO NO KODI.</description>
+    <disclaimer lang="en"></disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>

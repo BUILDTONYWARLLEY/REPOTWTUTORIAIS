@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.areswizard" name="[B][COLOR lightgray]Mod by TONYWARLLEY[/COLOR][/B]" provider-name="TONYWARLLEY" version="1.9">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.six" version="1.9.0" optional="true"/>
+	<import addon="script.module.arrow" version="0.6.0" optional="true"/>
+	<import addon="script.module.requests" version="2.7.0" optional="true"/>
+  </requires>
+ <extension library="default.py" point="xbmc.python.pluginsource">
+ <provides>executable</provides>
+ </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Mod by TONYWARLLEY - PROIBIDA a CÓPIA e REPRODUÇÃO ou VENDA. doações entre em contato: tony_wpb@hotmail.com</summary>
+    <description lang="en">Mod By TONYWARLLEY V.1.9
+http://youtube.com/tonywarlley
+Proibida a Cópia ou Venda.
+Se gostou não esqueça de se Inscrever e Deixar o LIKE ! 
+Se quiser fazer uma doação com qlq quantia já é Bem Vindo, e ajuda bastante!!!
+
+CAIXA ECONÔMICA FEDERAL
+TONY W P BORDINI
+Ag: 2485
+Operação: 013
+Conta 9.461-2
+
+Lista IPTV Premium:
+Grupo Whatsapp
+http://bit.ly/IPTVpremium</description>
+    <platform>all</platform>
+  </extension>
+  <extension point="kodi.context.item">
+	  <menu id="kodi.core.main">
+		<item library="resources/uploadlog.py">
+		  <label>@tonywarlley</label>
+		  <visible>true</visible>
+		</item>
+	  </menu>
+	</extension>
+ </addon>

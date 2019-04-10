@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.fenix.evolution" name="[COLOR firebrick]Repo[/COLOR][COLOR white] Fenix[/COLOR]" version="1.0" provider-name="Alderson">
+	<extension point="xbmc.addon.repository" name="Repositorio Fenix Evolution">
+		<info compressed="false">https://fenixevolution.000webhostapp.com/Repo.Fenix/addons.xml</info>
+		<checksum>https://fenixevolution.000webhostapp.com/Repo.Fenix/addons.xml.md5</checksum>
+		<datadir zip="true">https://fenixevolution.000webhostapp.com/Repo.Fenix/Plugins</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <description>[COLOR firebrick][B]l[/COLOR][/B] Repositorio Oficial de instalacao dos plugins de funcionamento e do addon Fenix [COLOR firebrick][B]l[/COLOR][/B]</description>
+		<disclaimer lang="en">O addon que sera instalado não hospeda nem possui nenhum conteúdo. O autor não é responsável pelo uso e pelo conteúdo encontrado usando este addon.</disclaimer>
+		<platform>all</platform>
+		<website/>
+        <video_guide></video_guide>
+        <reuselanguageinvoker>false</reuselanguageinvoker>
+      <assets>
+      	<icon>icon.png</icon>
+    	<fanart>fanart.jpg</fanart>
+        <screenshot>resources/screenshots/01.jpg</screenshot>
+        <screenshot>resources/screenshots/02.jpg</screenshot>
+        <screenshot>resources/screenshots/03.jpg</screenshot>
+      </assets>
+	</extension>
+</addon>

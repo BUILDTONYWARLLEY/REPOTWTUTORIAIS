@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.miraculusof" name="Miraculus Ladybug" version="1.0.0" provider-name="Kodish MC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <news>
+Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+        </news>
+    <summary lang="en">Addon Para Fans de Miraculus Ladybug</summary>
+    <description lang="en">Addon Para Fans de Miraculus Ladybug</description>
+    <platform>all</platform>
+  </extension>
+</addon>

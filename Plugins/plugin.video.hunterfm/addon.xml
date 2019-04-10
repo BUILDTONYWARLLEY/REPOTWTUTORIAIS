@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.hunterfm" name="[B][COLOR pink]Hunt[/COLOR][COLOR orange]er Fm[/COLOR][/B]" version="1.0" provider-name="Kodish MC">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[B][COLOR pink]Hunt[/COLOR][COLOR orange]er Fm[/COLOR][/B]</summary>
+    <description lang="en">Addon para Radio Hunter FM</description>
+    <platform>all</platform>
+	<news>
+	</news>
+  </extension>
+</addon>

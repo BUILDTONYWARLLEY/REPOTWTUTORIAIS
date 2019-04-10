@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+  <addon id="plugin.video.atto"
+         name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR blue] - [COLOR gold]CANAIS[COLOR blue] - [COLOR white]IPTV[/COLOR][/B]"
+         version="6.0.8"
+         provider-name="[COLOR aqua]Team ATTO[/COLOR]">
+  	<requires>
+    		<import addon="xbmc.python" version="2.1.0"/>
+    		<import addon="script.module.t0mm0.common" version="2.1.1"/>
+    		<import addon="script.module.beautifulsoup" version="3.2.1"/>
+    		<import addon="script.module.simple.downloader" version="1.9.5"/>
+    		<import addon="script.module.beautifulsoup4"/>
+    		<import addon="script.module.simple.downloader" version="1.9.5"/>
+    		<import addon="script.module.requests" />
+    		<import addon="script.module.httplib2" />
+    		<import addon="script.module.youtube.dl" optional="true"/>
+    		<import addon="plugin.video.youtube" version="5.3.12"/>
+    		<import addon="script.module.urlresolver"/>
+    		<import addon="script.module.simplejson" /> 
+    		<import addon="script.common.plugin.cache" version="2.5.5"/>
+    		<import addon="script.module.metahandler" version="2.9.0"/>
+  	</requires>
+  	<extension point="xbmc.python.pluginsource" library="default.py">
+    		<provides>video</provides>
+  	</extension>
+  	<extension point="xbmc.addon.metadata">
+    		<summary lang="en">[COLOR aqua]Canais IPTV Premium, sem antenas pela internet.[/COLOR]</summary>
+    		<description lang="en">[COLOR blue]Atto-Canais-IPTV[COLOR aqua] agrega e organiza os links externos de outras fontes de IPTV. De modo que o usuário pode encontrar tudo o que você está procurando em um só lugar. Mas não somos responsáveis pelo conteúdo apresentado.[/COLOR]</description>
+    		<disclaimer lang="en">[COLOR aqua]O autor não hospeda nem distribui qualquer conteúdo exibido por este addon. Atto.TV não tem qualquer afiliação com o provedor de conteúdo.[/COLOR]</disclaimer>
+    <website>https://atto.tv/</website>
+    <forum>https://atto.tv/forum</forum>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
+    <platform>all</platform>
+  	</extension>
+  </addon>

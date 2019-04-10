@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.TeamBlue" name="[COLOR blue]T[/COLOR]eam[COLOR blue]Blue[/COLOR]" version="1.1" provider-name="TeamBlue Live Events">
+	<extension point="xbmc.addon.repository" name="VietKodi Addon Repository">
+		<info compressed="false">https://teamblue65repo.000webhostapp.com/Plugins/addons.xml</info>
+		<checksum>https://teamblue65repo.000webhostapp.com/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://teamblue65repo.000webhostapp.com/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="pt">Repositorio do Add-on TeamBlue</summary>
+		<description lang="pt">
+Repositorio para o add-on TeamBlue e alguns serviços necessários ao seu bom funcionamento
+NOTA: é necessario ter instalados: 
+f4mtester – f4mproxy (repositorio Shani)
+Sports Devil – Plexus (incluidos neste repositorio)
+O criador deste addon nao possui nem esta ligado de nenhuma forma ao conteudo nele disponibilizado.
+Apenas disponibiliza conteudos de terceiros
+Visitem o meu grupo no facebook em: https://www.facebook.com/groups/TeamBlue.addon
+		</description>
+		<platform>all</platform>
+	</extension>
+</addon>

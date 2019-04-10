@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thebishop" name="TheBishop Repository" version="1.0" provider-name="TheBishop">
+	<extension point="xbmc.addon.repository" name="TheBishop">
+		<info compressed="true">http://www.thebishop.gq/repository/addons.xml</info>
+		<checksum>http://www.thebishop.gq/repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.thebishop.gq/repository/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">TheBishops Repository</summary>
+		<summary lang="de">TheBishops Repository</summary>
+		<description lang="en">TheBishops Repository</description>
+		<description lang="de">TheBishops Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>

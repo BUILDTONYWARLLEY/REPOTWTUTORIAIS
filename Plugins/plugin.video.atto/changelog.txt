@@ -1,0 +1,33 @@
+V6.0.8
+- Integração do novo método de conversão MD5 e pesquisa inversa.
+
+V6.0.7
+- Alteração na apresentação.
+
+V6.0.6
+- Mudança de servidor.
+
+V6.0.5 
+- Makeover + Inserção de listas IPTV.
+
+V6.0.4 
+- Testando novas funcionalidades em python. (Não funcionou, retorna à original).
+
+V6.0.3 
+- Atualização do link. 
+- Compatibilidade com f4mtester.
+- Mudança total em arquitetura atto.tv addon.
+
+V6.0.2 
+- Mudança m3u lista de hospedagem, para Atto.TV.
+
+V6.0.1 
+- Mudança na aparência do Add-On Atto.TV.
+
+V6.0.0 
+- Versão beta do Add-On Atto.TV
+
+
+
+
+

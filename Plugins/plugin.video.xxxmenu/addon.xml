@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.xxxmenu" name="[COLOR blue][B]XXX MENU[/B][/COLOR]" version="1.0.4" provider-name="TheBishop">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.requests" version="2.12.4" />
+    <import addon="plugin.video.mangoporn.net" version="1.0.1"/>
+    <import addon="plugin.video.pandamovies.pw" version="1.0.1"/>
+    <import addon="plugin.video.pornkino.to" version="1.0.1"/>
+    <import addon="plugin.video.sexkino.to" version="1.0.1"/>
+    <import addon="plugin.video.sexuria.com" version="1.0.1"/>
+    <import addon="plugin.video.streamingporn.xyz" version="1.0.1"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="xxx.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">XXX MENU</summary>
+    <description lang="en">Select your favorite XXX Addon.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

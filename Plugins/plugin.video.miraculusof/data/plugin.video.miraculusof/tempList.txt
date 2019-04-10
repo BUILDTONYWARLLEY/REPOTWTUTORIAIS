@@ -1,0 +1,227 @@
+[
+    {
+        "url": "https://openload.co", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " [COLOR yellow]1ยบ Temporada Miraculus Ladybug[/COLOR]"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-03%20-%20Tormenta.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E01 â Tormenta"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-23%20-%20Ilustrador%20do%20mal.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E02 â Ilustrador Do Mal"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-18%20-%20Lady%20WiFi.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E03 â Lady Wifi"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-16%20-%20Cupido%20Negro.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E04 â Cupido Negro"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-05%20-%20Sr%20Pombo.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E05 â Sr. Pombo"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-04%20-%20Homem%20Bolha.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E06 â Homem-Bolha"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-11%20-%20Rogercop.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E07 â Rogercop"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-12%20-%20Jogador.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E08 â Jogador"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-13%20-%20Animan.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E09 â Animan"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-14%20-%20Lamina%20Negra.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E10 â LĂ˘mina Negra"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-07%20-%20O%20Farao.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E11 – O Faraó"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-17%20-%20Horrificador.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E12 â Horrificador"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-22%20-%20A%20Marionetista.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E13 â A Marionestista"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-08%20-%20Copycat.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E14 â Copycat"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-06%20-%20Temporizadora.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E15 â Temporizadora"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-19%20-%20O%20Mimico.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E16 – O Mímico"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-21%20-%20Antibug.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E17 â Antibug"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-25%20-%20Kung%20food.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E18 â Kung Food"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-09%20-%20Pixelador.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E19 â Pixelador"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-20%20-%20Guitarrista%20malvado.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E20 â Guitarrista Malvado"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-24%20-%20Reflekta.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E21 â Reflecta"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-10%20-%20Simon%20mandou.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E22 â Simon Mandou"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-15%20-%20Princesa%20Perfume.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E23 â Princesa Perfume"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-01%20-%20Ladybug%20e%20Cat%20Noir.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E24 – Ladybug & Cat Noir (Origem – Parte 1)"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-01%20-%20Ladybug%20e%20Cat%20Noir.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E25 – Coração De Pedra (Origem – Parte 2)"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/01-26%20-%20Volpina.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01E26 â Volpina (Final da Temporada)"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/MLB%20S02E00%20-%20Ladybug%20e%20o%20Natal%20%5b720p%5d%5bDub%5d.mp4-1HMZYt84iPZ8gODMRtoqx75c7OHRXGMw3NQ.mp4", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S01 Miraculus S01x27 Especial de Natal "
+    }, 
+    {
+        "url": "https://openload.co", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " [COLOR yellow]2ยบ Temporada Miraculus Ladybug[/COLOR]"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E01%20-%20O%20Colecionador.mkv-1Ih6u7nfhPZ52v2W_YvE8cej2Nb27qARY.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x01 O Colecionador "
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E02%20-%20Rainha%20Rep%c3%b3rter.mkv-1qYU7-J1g8rlY9xcNUrD-54zZvHDOtkic.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x02 Rainha Reporter "
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E03%20-%20O%20Urso%20Maligno.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x03 Urso Malvado "
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E04%20-%20Revanche.mkv-1efSnz_J-c3cAo-qmQHt7XtVPRYliNYEg.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x04 Revanche"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E05%20-%20Befana.mkv-1MpTwoStNKnPBBfVR-hueN-Pv7GJPW_a3.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x05 Befana"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E06%20-%20Robustus.mkv-1mDUohXhFfTQuarEKcyVIIm_-0vrXjxDE.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x06 Robustus"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E07%20-%20Gigantit%c3%a3.mkv-1tgcWa9BmA3wmQ2snjypcf2WSsf7ogUvO.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x07 Gigatan"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E08%20-%20Coruja%20Negra.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x08 Coruja Negra"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E09%20-%20Sapotis.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x09 Sapotis"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E10%20-%20Glaciator.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x10 Glaciator"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E11%20-%20Gorizila.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x10 Gorizila"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E12%20-%20Capit%c3%a3%20Hardrock%20%5b720p%5d%5bDublado%5d.mkv-1oYW_ousXzjZUH-4YAkLmRvjNHs6v3V5O.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x11 Capita Hardrock"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E13%20-%20Zombizou%20%5b720p%5d%5bDublado%5d.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x12 Zombizou"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E14%20-%20A%20Sereia%20%5b720p%5d%5bDublado%5d.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x13 A Sereia"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E15%20-%20A%20Cantora%20%5b720p%5d%5bDublado%5d.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x13 A Cantora"
+    }, 
+    {
+        "url": "http://173.249.8.202/home/miraculus/ML%20S02E16%20-%20Encrenqueira%20%5b720p%5d%5bDublado%5d.mkv", 
+        "image": "https://vignette.wikia.nocookie.net/lady-bug/images/b/bd/Chibi_Ladybug_Circle_BG.jpg", 
+        "name": " S02 Miraculus S02x14 A Encrenqueira"
+    }
+]

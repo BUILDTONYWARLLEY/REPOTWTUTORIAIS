@@ -1,0 +1,4 @@
+<settings>
+	<setting label="SELECIONE PLAYER TORRENT:" type="lsep" />
+	<setting label="PLAYER TORRENT" type="select" id="player_torrent" default="Quasar" values="Quasar|Pulsar|Yatp|Torrenter|XbmcTorrent|Torrentin|Ace Stream (apk)|Elementum|BitX Torrent Video Player(APK)"/>
+</settings>

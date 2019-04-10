@@ -1,0 +1,17 @@
+<strings>
+    <string id="30000">Habilitar Wizard Auto-Update</string>
+	<string id="30001">Geral</string>
+	<string id="30002">Debug</string>
+	<string id="30003">Substitua o número da versão (forçar a atualização)</string>
+	<string id="30004">Status da Conta</string>
+	<string id="30005">Data de validade</string>
+	<string id="30006">Tipo de usuário</string>
+	<string id="30007">Ativação restante</string>
+	<string id="30008">ID de dispositivo</string>
+	<string id="30009">Endereço de e-mail</string>
+	<string id="30010">Daily</string>
+	<string id="30011">Weekly</string>
+	<string id="30012">Monthly</string>
+	<string id="30013"> - Frequência: </string>
+	
+</strings>

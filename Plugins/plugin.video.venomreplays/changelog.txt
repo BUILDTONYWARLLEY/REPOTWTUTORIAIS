@@ -1,0 +1,59 @@
+v0.0.8
+    - Black And White Classic Movie Section added to Movie Mania
+    - Fueled by Death - Podcast Section added
+    - Massively OP - Podcast Section added
+    - Pure Movie Torture section added to Movie Mania (One Click)
+    - Sports Highlights Section Updated
+    - Star Trek section added to Movie Mania
+    - The Duke section added to Movie Mania
+    - TV Calendar added to Networks section
+    - US Local News section added to Arraki TV
+
+v0.0.7
+    - Live TV now displays title of channel being played in OSD
+    - Spice Room Password now only needed once every 24 hours
+    - Documentary content added
+
+v0.0.6a
+    - Update for Unicode characters on FM Archives
+
+v0.0.6
+    - Update to requests in several plugins
+
+v0.0.5
+    - Clear Cache added to plugins that already support cache
+    - Added The Archives to the main menu
+    - Updated for more Kodi 18 support
+
+v0.0.4
+    - Rework and cleanup of FXXXMovies (Thanks to KritikTV)
+    - Added Caching to Collection of Best Porn, Celebrity Nude World, EPorner,
+        and Full XXX Movies
+    - Added Caching to Documentary Heaven, Top Docs, and Documentary Storm
+    - Added Caching to B98
+    - Added Caching to PodcastOne and Podbay
+    - Added Arrakis YouTube Daily Limit Fix to Settings Menu
+    - Added YouTube Live/Dash and CAMS Viewing Fix to Settings Menu
+    - TMDB Code update (Thanks to Klepto)
+
+v0.0.3
+    - Added Maintenance check to Arrakis TV plugin, so shows up as down
+        for maintenance instead of empty results
+    - Added Caching to the Anime Plugin Menus (Cache lasts for 3 hours)
+    - Replaced Air Table plugin with Arraki Air
+    - Added Jen Team's Air Tables for additional content
+    - Colorized Sports Hub main menu
+    - New Submenu icons for Arrakis for the upcoming Dune Build - More to come
+    - Fixed some typos in menu items
+    - Sports Hub section revamped started (more to come)
+    - WWE Archive added
+
+v0.0.2
+    - Loud and Proud Music Section Added
+    - Kids Tube section expanded, with many thanks to d. twigwood
+    - Added Jen Team Live Sports Airtable
+    - Added Highlights section to Sports Hub
+    - Updates to Plugins for imdb, hesgoal, and sports stream by TonyH
+
+v0.0.1
+    - Initial Release

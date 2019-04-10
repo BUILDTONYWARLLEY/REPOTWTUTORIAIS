@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.tonywarlley" name="Builds TONYWARLLEY" version="1.0.0" provider-name="@TONYWARLLEY">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">WIZARD TONYWARLLEY V 1.0</summary>
+    <description lang="en">Instalador para instalação das BUILDS TONYWARLLEY TUTORIAIS, Cópia não autorizada, Uso conteúdo é pessoal não upamos nada que não esteja na internet e canal não se responsabiliza danos materiais e judiciais do mal uso do Kodi. Fazemos instalações e review sob vigência
+Fair Use</description>
+    <platform>all</platform>
+  </extension>
+</addon>

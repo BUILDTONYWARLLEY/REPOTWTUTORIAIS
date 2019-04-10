@@ -1,0 +1,20 @@
+<addon id="plugin.video.ncs" name="NCS Sounds" version="1.0.0" provider-name="HouseGeek">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.addon.common" version="2.0.0"/>
+<import addon="plugin.video.youtube" version="5.0.0"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<news>
+Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+        </news>
+<summary lang="en">NCS Sounds</summary>
+<description lang="en">Este addon para fans musicas da NCS</description>
+<platform>all</platform>
+<forum/>
+<website/>
+</extension>
+</addon>

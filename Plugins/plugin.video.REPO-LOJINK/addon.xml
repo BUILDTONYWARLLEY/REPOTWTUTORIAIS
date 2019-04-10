@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.REPO-LOJINK" name="[B]REPO-LOJINK[/B]" version="2.1" provider-name="LOJINK">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">[B]REPO-LOJINK[/B]</summary>
+		<description lang="en">[B]ADDON QUE PERMITE INSTALAR ADDONS REPO-LOJINK E PARCEIROS[/B]</description>
+		<forum>none</forum>
+		<source></source>
+		<website></website>
+		<platform>all</platform>
+	</extension>
+</addon>

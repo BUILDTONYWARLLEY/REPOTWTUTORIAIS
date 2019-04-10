@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.master" name="[COLOR darkmagenta][B]ROCK[/COLOR][COLOR white] COLLECTION[/B][/COLOR]" version="1.0.3" provider-name="anonimous">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.youtube"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language>en</language>
+    <summary lang="en"></summary>
+    <description lang="en">
+	</description>
+    <disclaimer lang="en">
+    </disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

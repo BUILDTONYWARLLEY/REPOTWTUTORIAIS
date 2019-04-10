@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="weather.yahoo" name="Yahoo! Weather" version="5.0.4" provider-name="ronie">
+	<requires>
+		<import addon="xbmc.python" version="2.25.0"/>
+		<import addon="script.module.requests" version="2.19.1"/>
+	</requires>
+	<extension point="xbmc.python.weather" library="default.py"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="pt_PT">Previsão do tempo a partir de yahoo.com</summary>
+		<summary lang="pt_BR">Previsão Climática de yahoo.com</summary>
+		<description lang="pt_PT">Previsão metereológica fornecida por Yahoo! Weather (http://weather.yahoo.com/)</description>
+		<description lang="pt_BR">Previsão climática fornecida por Yahoo! Weather (http://weather.yahoo.com)</description>
+		<disclaimer lang="pt_PT">O uso deste add-on implica o seu acordo com os Termos de Serviço disponíveis em http://developer.yahoo.com/weather/#terms</disclaimer>
+		<disclaimer lang="pt_BR">O uso deste complemento implica em aceitar os Termos de Serviço localizado em http://developer.yahoo.com/weather/#terms</disclaimer>
+		<language></language>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE Version 2</license>
+		<forum>https://forum.kodi.tv/showthread.php?tid=169410</forum>
+		<source>https://gitlab.com/ronie/weather.yahoo</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>

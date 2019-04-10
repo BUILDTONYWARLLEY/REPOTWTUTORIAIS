@@ -1,0 +1,22 @@
+[
+    {
+        "url": "http://live.hunter.fm/live", 
+        "image": "http://hunter.fm/pop/img/hunterfm_logo2016.png", 
+        "name": "[COLOR white][B]Hunter Hitz[/B][/COLOR]"
+    }, 
+    {
+        "url": "https://live.hunter.fm/pop2k", 
+        "image": "http://hunter.fm/pop2khits/img/hunterfm_logopop2khits2016.png", 
+        "name": "[COLOR white][B]Hunter Pop 2k[/B][/COLOR]"
+    }, 
+    {
+        "url": "http://live.hunter.fm/fresh", 
+        "image": "http://hunter.fm/fresh/img/hunterfm_logo2016.png", 
+        "name": "[COLOR white][B]Hunter Fresh[/B][/COLOR]"
+    }, 
+    {
+        "url": "http://live.hunter.fm/country", 
+        "image": "http://hunter.fm/sertanejo/img/hunterfm_logocountry2016.png", 
+        "name": "[COLOR white][B]Hunter Sertanejo[/B][/COLOR]"
+    }
+]

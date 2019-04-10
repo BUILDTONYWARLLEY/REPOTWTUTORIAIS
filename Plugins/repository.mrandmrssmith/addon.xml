@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.mrandmrssmith" name="[B][COLORdarkgray]Mr and Mrs Smith Repository[/COLOR][/B]" version="1.0.2" provider-name="[B][COLORdarkgray]John and Jane[/COLOR][/B]">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+	<extension point="xbmc.addon.repository" name="Mr and Mrs Smith">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<dir>
+		    <info compressed="false">http://mrandmrssmith.xyz/Repo/addons.xml</info>
+		    <checksum>http://mrandmrssmith.xyz/Repo/addons.xml.md5</checksum>
+		    <datadir zip="true">http://mrandmrssmith.xyz/Repo/</datadir>		
+		</dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        </dir>	
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+		</dir>
+		<dir>
+            <info compressed="false">http://lillywhiteyid.tk/oka/addons/addons.xml</info>
+            <checksum>http://lillywhiteyid.tk/oka/addons/addons.xml.md5</checksum>
+            <datadir zip="true">http://lillywhiteyid.tk/oka/addons/</datadir>
+        </dir>      	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+<platform>all</platform>
+<description lang="en">
+The author is not responsible for the use of this addon. The author is not responsible for the content found using this addon. The author does not host or own any content found within this addon. The author is in no way affiliated with Kodi, Team Kodi, or the XBMC Foundation. The Search process is the same as a search engine with no data actual hosted by the developer. This is a Non-profit resource, organized solely for educational purposes which is protected under the Fair-Use doctrine of the Copyright Act, Specifically section 107, which does promote freedom of expression, by permitting the unlicensed use of copyright-protected works.
+</description>
+</extension>
+</addon>
