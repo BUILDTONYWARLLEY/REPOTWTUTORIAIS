@@ -3598,7 +3598,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="repo.TWTUTORIAIS" name="[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]" version="1.3" provider-name="repo.TWTUTORIAIS">
+<addon id="repo.TWTUTORIAIS" name="[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]" version="1.5" provider-name="repo.TWTUTORIAIS">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
