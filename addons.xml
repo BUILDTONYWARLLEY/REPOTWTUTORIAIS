@@ -3620,9 +3620,9 @@ This is a Non-profit resource, organized solely for educational purposes which i
 	<import addon="script.module.youtube.dl"/>
 </requires>
 	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/addons.xml</info>
-		<checksum>https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/addons.xml.md5</checksum>
-		<datadir zip="true">https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/Plugins/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
