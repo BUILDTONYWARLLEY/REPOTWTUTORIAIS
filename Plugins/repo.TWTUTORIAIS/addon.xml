@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repo.TWTUTORIAIS" name="[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]" version="1.3" provider-name="repo.TWTUTORIAIS">
+<addon id="repo.TWTUTORIAIS" name="[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]" version="1.5" provider-name="repo.TWTUTORIAIS">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -21,9 +21,9 @@
 	<import addon="script.module.youtube.dl"/>
 </requires>
 	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/addons.xml</info>
-		<checksum>https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/addons.xml.md5</checksum>
-		<datadir zip="true">https://twtutoriaisrepo.000webhostapp.com/RepoTWTutoriais/Plugins/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
