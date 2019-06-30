@@ -4360,7 +4360,7 @@ adulthideout@yandex.com[/COLOR]
         <video_guide></video_guide>
     </extension>
 </addon>
-<addon id="plugin.video.nolecinema" name="[COLOR gold][B]Nole Cinema[/COLOR][/B]" version="2.2" provider-name="NoleNation">
+<addon id="plugin.video.nolecinema" name="[COLOR gold][B]Nole Cinema[/COLOR][/B]" version="2.6.1" provider-name="NoleNation">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />
