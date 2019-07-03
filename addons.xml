@@ -58,7 +58,7 @@ Fair Use</description>
 </addon>
 <addon id="plugin.video.TorrentBR"
        name="[COLOR white]-=[/COLOR][COLOR green]Torrent[/COLOR][COLOR gold]BR[/COLOR][COLOR white]=-[/COLOR]"
-       version="1.0.20"
+       version="1.0.22"
        provider-name="TorrentBR">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
