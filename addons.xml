@@ -4662,8 +4662,9 @@ Toda a fonte  vem de utilizadores do Youtube.
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
 <description>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][B][COLOR lime] Installed from the MEGAREPO TONYWARLLEY[/COLOR][/B]</description>
-<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDOAR[/COLOR][/B]</disclaimer>
+<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDONATE[/COLOR][/B]</disclaimer>
 <news>
+[B][COLOR gold]v2.0.8 - CORREÇÃO DE AGOSTO DE 2019.[/COLOR][/B]
 [B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]
 </news>
 <platform>all</platform>
