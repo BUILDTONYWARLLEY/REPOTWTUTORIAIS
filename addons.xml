@@ -4642,7 +4642,7 @@ Toda a fonte  vem de utilizadores do Youtube.
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.0.7" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.0.8" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.t0mm0.common"/>
