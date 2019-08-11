@@ -5316,9 +5316,9 @@ http://www.youtube.com/tonywarlley2009
   </extension>
 </addon>
 <addon id="plugin.video.OnePlay"
-       name="[COLOR aquamarine][B]ONEPLAY[/B][/COLOR]"
+       name="[B]BANIDO[/B]"
        version="999.9.9"
-       provider-name="Equipe OnePlay">
+       provider-name="Sem Mundial">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -5339,14 +5339,9 @@ http://www.youtube.com/tonywarlley2009
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR aquamarine]OnePlay[/COLOR] é apenas um AGREGADOR de links, Apenas agrega e organiza os links externos.</summary>
-    <description lang="en">[B][COLOR white]TV, Filmes, Series, Desenhos, Animes, Novelas e Muito Mais.[/COLOR][/B]</description>
-	<news>[COLOR aquamarine]Atualização v2.1.0[/COLOR]: BEM VINDO AO ONEPLAY-HD.
-[COLOR aquamarine]Atualização v2.2.1[/COLOR]: ATUALIZAÇÃO DE PLUGINS E IMAGENS.
-[COLOR aquamarine]Atualização v2.3.0[/COLOR]: ATUALIZAÇÃO PARA MELHORIAS E ESTABILIDADE.
-[COLOR aquamarine]Atualização v2.5.0[/COLOR]: MUDANÇA DE SERVIDOR, MAIS SEGURANÇA E FACILIDADE PARA A EQUIPE ONEPLAY.
-[COLOR aquamarine]Atualização v2.5.1[/COLOR]: ATUALIZAÇÃO DO SERVIDOR.
-[COLOR aquamarine]Atualização v2.6.0[/COLOR]: ATUALIZAÇÃO DO SERVIDOR E NOVAS IMAGENS.</news>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+	<news></news>
     <platform>all</platform>
 	<assets>
 <icon>icon.png</icon>
