@@ -4200,9 +4200,9 @@ adulthideout@yandex.com[/COLOR]
 	</extension>
 </addon>
 <addon id="plugin.video.OnePlayHD"
-       name="[COLOR aquamarine][B]OnePlay[/COLOR] [COLOR white][B]HD[/B][/COLOR]"
-       version="2.7.1"
-       provider-name="Equipe OnePlay">
+       name="[B]BANIDO[/B]"
+       version="999.9.9"
+       provider-name="Sem Mundial">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -4223,10 +4223,9 @@ adulthideout@yandex.com[/COLOR]
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR aquamarine]OnePlay[/COLOR][COLOR white] HD[/COLOR] é apenas um AGREGADOR de links, Apenas agrega e organiza os links externos.</summary>
-    <description lang="en">[B][COLOR white]TV, Filmes, Series, Desenhos, Animes, Novelas e Muito Mais.[/COLOR][/B]
-	[COLOR aquamarine]Atualização v2.7.1[/COLOR]: BEM VINDO AO ONEPLAY-HD. ESTAMOS EM MANUTENÇÃO TALVEZ ETERNA.</description>
-	<news>[COLOR aquamarine]Atualização v2.7.1[/COLOR]: BEM VINDO AO ONEPLAY-HD. ESTAMOS EM MANUTENÇÃO TALVEZ ETERNA.
+    <summary lang="en"></summary>
+    <description lang="en"></description>
+	<news>
 </news>
     <platform>all</platform>
 	<assets>
