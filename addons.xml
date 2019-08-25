@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.Tv-Fogo-HD"
        name="[B][COLOR red]Tv Fogo HD[/COLOR][/B]"
-       version="3.0"
+       version="3.1"
        provider-name="[B][COLOR yellow]Equipe: TV Fogo[/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
