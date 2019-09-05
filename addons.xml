@@ -3608,7 +3608,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
     <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="plugin.video.youtube" version="6.0.0~alpha6" />
+    <import addon="plugin.video.youtube" />
     <import addon="script.module.urlresolver" />
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer"/>
