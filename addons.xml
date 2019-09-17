@@ -4278,26 +4278,31 @@ adulthideout@yandex.com[/COLOR]
   </assets>
   </extension>
 </addon>
-<addon id="plugin.video.braziltv" name="BrazilTV" version="1.0" provider-name="teamBrazilTV">
+<addon id="plugin.video.braziltv" name="BrazilTV" version="1.2" provider-name="teamBrazilTV">
   <requires>
-    <import addon="xbmc.python" version="2.24.0"/>
+    <import addon="xbmc.python" version="2.25.0"/>
     <import addon="plugin.video.f4mTester" version="2.7.1"/>
-    <import addon="plugin.video.youtube" version="6.4.0"/>
+    <import addon="plugin.video.youtube" version="6.5.1" optional="true"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="addon.py">
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">IPTV livre para todos.</summary>
-    <description lang="en">[COLOR lightblue]Instale nosso repositório oficial (BrazilTV Repo) para receber atualizações e dependências rapidamente![/COLOR]
+    <description lang="en">[B]ATENÇÃO:[/B] Não hospedamos nem temos ligação com nenhum dos conteúdos deste addon, apenas reunimos links e conteúdos de terceiros.
 
-[B]ATENÇÃO:[/B] Não hospedamos nem temos ligação com nenhum dos conteúdos deste addon, apenas reunimos links de transmissões públicas feitas por terceiros. A estabilidade 100% dos canais não é garantida, mas estamos trabalhando diariamente para tentar mantê-la. Os dados de EPG também são de disponibilidade pública e encontrados na internet. Todos os programas gravados são retirados dos canais oficiais das emissoras no YouTube, e todo o conteúdo é de responsabilidade das mesmas.</description>
+[COLOR lightblue]Use apenas instalações através do nosso repositório oficial (BrazilTV Repo)![/COLOR]</description>
     <assets>
         <icon>icon.png</icon>
         <fanart>fanart.jpg</fanart>
     </assets>
-    <website>http://bit.ly/BrazilTVKodi</website>
-    <news>[COLOR lime]v1.0 - Versão estável do BrazilTV, aprimoramentos de segurança, correção de erros e novo design.[/COLOR]
+    <website>https://braziltv.yolasite.com</website>
+    <news>[COLOR lime]v1.2[/COLOR]
+- Ferramenta de favoritos
+- Opção de mudança do protocolo de transmissão
+- Bugs corrigidos
+- Atualização automática removida
+- Outras melhorias gerais de estabilidade
 
 [COLOR white][B]Fique atento a atualizações e envie sugestões de funcionalidades na nossa página do Facebook![/B][/COLOR]</news>
   </extension>
