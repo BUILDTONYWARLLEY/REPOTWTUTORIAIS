@@ -1814,28 +1814,6 @@ ESTE Repositório Pertence a REPO TONY WARLLEY TUTORIAIS, não baixe Repositóri
     <email>beenje AT gmail.com</email>
   </extension>
 </addon>
-<addon id="repository.atto.team2.repository" name="[COLOR blue][B]ATTO PIXEL[/COLOR][COLOR yellow] 4K [/COLOR][COLOR aqua]REPOSITORY[/B][/COLOR]" provider-name="[COLOR aqua]Team ATTO[/COLOR]" version="2.7">
-    <extension point="xbmc.addon.repository" name="Repository Team Atto">
-        <info compressed="true">https://atto1.websiteseguro.com/addons/addons.xml</info>
-        <checksum>https://atto1.websiteseguro.com/addons/addons.xml.md5</checksum>
-        <datadir zip="true">https://atto1.websiteseguro.com/addons/</datadir>
-        <hashes>false</hashes>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR aqua]Add-ons multimídia exclusivos para o receptor Atto Pixel[/COLOR]</summary>
-        <description lang="en">[COLOR aqua]Aqui pode encontrar os melhores complementos para Kodi, testado e aprovado pela equipe [COLOR blue]ATTO[/COLOR]. Sinta-se livre para instalar os complementos que você deseja.[COLOR yellow][COLOR blue]ATTO[/COLOR], faz uma compilação
-            dos melhores complementos da internet, Os créditos são para cada autor do complemento, [COLOR blue]ATTO[/COLOR] apenas disponibiliza seu conteúdo.[/COLOR]</description>
-        <disclaimer lang="en">[COLOR aqua][COLOR blue]ATTO[/COLOR], apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR]</disclaimer>
-        <forum>https://atto.tv/forum</forum>
-        <website>https://atto.tv/</website>
-        <license>http://www.gnu.org/licenses/</license>
-        <platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-    </extension>
-</addon>
   <addon id="plugin.video.youtube" name="YouTube" version="6.1.4" provider-name="bromix">
     <requires>
         <import addon="xbmc.python" version="2.20.0"/>
@@ -3120,42 +3098,9 @@ Add-on Retirado ds REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não seja
         <description></description>
     </extension>
 </addon>
-<addon id="plugin.video.AttoFlix4K"
-       name="[B][COLOR black]_[COLOR aqua].[COLOR red]ATTOFLIX[COLOR blue] - [/COLOR][COLOR gold]4K[COLOR aqua].[/COLOR][/B]"
-       version="1.0"
-       provider-name="[COLOR red]Marzelo [COLOR gold]-[/COLOR] Team ATTO[/COLOR]">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>		
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR red][B]Filmes [COLOR gold]-[/COLOR] Series [COLOR gold]-[/COLOR] Torrent [COLOR gold]-[/COLOR] IPTV[B][/COLOR]</summary>
-    <description lang="en">[COLOR gold][B]ATTOFLIX 4K[/B][/COLOR][COLOR red], oferece Filmes, Series, Torrents, IPTV , Animes, Desenhos, de qualidade TOP, disponíveis via Streaming o para download via torrent, links constantemente atualizados. Tecnologia "hassle free" da Atto,[COLOR gold] o melhor conteúdo Media Center.[/COLOR]</description>
-    <disclaimer lang="en">[COLOR aqua]O autor não hospedar ou distribuir qualquer conteúdo exibido por este complemento.[COLOR blue][B] Atto.TV [/B][/COLOR]tem nenhuma afiliação com o provedor de conteúdo.[COLOR blue][B] Atto.TV [/B][/COLOR]somente é responsável por coletar os melhores filmes e series da Internet, categorização e otimizá-los, de modo a que esta ao alcance de seus clientes. tão fácil e descomplicada.[/COLOR]</disclaimer>
-    <website>http://atto.tv/</website>
-    <forum>https://atto.tv/forum</forum>
-    <license>GNU GENERAL PUBLIC LICENSE. Version 3.</license>
-    <platform>all</platform>
-  </extension>
-</addon>
 <addon id="plugin.video.atto.torrents" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR white] - [/COLOR][COLOR lime]TORRENTS![/COLOR][/B]" version="1.4" provider-name="[COLOR lime]Team - ATTO[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
-        <import addon="repository.atto.team2.repository" optional="false" />
     </requires>
     <extension point="xbmc.python.pluginsource" library="addon.py">
         <provides>video</provides>
