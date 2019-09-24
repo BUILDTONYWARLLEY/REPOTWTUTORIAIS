@@ -5520,4 +5520,62 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
         <source>https://github.com/jdf76/plugin.video.youtube</source>
     </extension>
 </addon>
+	<addon id="plugin.video.venom" version="3.2.0" name="[COLOR red]Venom[/COLOR]" provider-name="Venom">
+
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+		<import addon="script.module.requests" version="2.19.1" />
+		<import addon="script.module.beautifulsoup4" version="4.5.3"/>
+		<import addon="script.module.metahandler" version="2.9.0" />
+		<import addon="plugin.video.youtube" version="6.2.0"/>
+		<import addon="script.module.resolveurl" version="5.0.27"/>
+		<import addon="script.module.openscrapers" />
+		<import addon="script.module.addon.signals" version="0.0.1"/>
+	</requires>
+
+	<extension point="xbmc.python.pluginsource" library="venom.py">
+		<provides>video</provides>
+	</extension>
+
+	<extension point="xbmc.service" library="service.py" start="startup" />
+	<extension point="xbmc.python.module" library="resources/lib/"/>
+
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[B][COLOR red]Venom[/COLOR][/B] We do not host any of the contents streamed</summary>
+		<description lang="en">[B]Venom[/B][CR] This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+			<screenshot>resources/screenshots/screenshot01a.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot02a.jpg</screenshot>
+			<screenshot>resources/screenshots/screenshot03a.jpg</screenshot>
+		</assets>
+		<news>
+[B][COLOR red]Update - v3.2.0 - Sept 22, 2019[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] changed clearlogo and clearart to
+    tvshow.clearart and tvshow.clearlogo to
+    fix skin issue seen in Estuary.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed Trakt lists not updating for changes
+    until 1hr passed due to cache duration.
+    Now if Trakt activity is newer than cache
+    write date the new data will be fetched[/I]
+[COLOR yellow]--[/COLOR][I] Fixed Trakt lists sort by Title to ignore
+    articles (the, and, an).[/I]
+[COLOR yellow]--[/COLOR][I] Reworked multiline source list. There is
+    now a 2nd line color choice option in
+    settings. Switched formatting of 2nd line
+    to Italic. Removed occasional 0 values.[/I]
+[COLOR yellow]--[/COLOR][I] Added color choice options for progress
+    dialog premium and free lines.[/I]
+[COLOR yellow]--[/COLOR][I] Added a few new colors to various options
+    in settings.[/I]
+		</news>
+	</extension>
+</addon>
 </addons>
