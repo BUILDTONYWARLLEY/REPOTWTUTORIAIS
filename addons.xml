@@ -2305,7 +2305,7 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 </assets>
 </extension>
 </addon>
-<addon id="plugin.video.musicando" name="Musicando" version="0.0.1" provider-name="Simio">
+<addon id="plugin.video.musicando" name="Musicando" version="0.0.6" provider-name="Catoal">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="plugin.video.youtube"/>
@@ -2315,7 +2315,7 @@ provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
   </extension>
   <extension point="xbmc.addon.metadata">
   <news>
-Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+Add-on EXCLUSIVO da MEGAREPO TWTUTORIAIS, A Melhor, Maior e Mais Completa Repo Brasileira, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
         </news>
     <language>en</language>
     <summary lang="es">Los Mejores Videos de YouTube. </summary>
