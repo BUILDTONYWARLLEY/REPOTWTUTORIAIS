@@ -444,7 +444,7 @@ Channels and Playlists organized by categories. Source: Youtube Website.
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.MMFilmesHD" name="MMFilmes HD" version="1.0" provider-name="Lojink">
+<addon id="plugin.video.MMFilmesHD" name="MMFilmes HD" version="1.2" provider-name="Lojink">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 		<import addon="script.module.urlresolver" version="2.10.0"/>
@@ -521,7 +521,7 @@ Channels and Playlists organized by categories. Source: Youtube Website.
 </addon>
 <addon id="plugin.video.vagalumefm"
        name="Vagalume FM"
-       version="1.1"
+       version="1.4"
        provider-name="Kractos Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -3401,7 +3401,7 @@ Visitem o meu grupo no facebook em: https://www.facebook.com/groups/TeamBlue.add
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.twtutoriais" name="[B][COLOR mediumblue]TONY [/COLOR][COLOR lime]WARLLEY[/COLOR][COLOR yellow] TUTORIAIS[/COLOR][/B]" version="1.0.0" provider-name="Created by TONYWARLLEY">
+<addon id="plugin.video.twtutoriais" name="-[B][COLOR mediumblue]CANAL [/COLOR][COLOR lime]TW[/COLOR][COLOR yellow] TUTORIAIS[/COLOR][/B]-" version="1.0.2" provider-name="Created by TEAM TWTUTORIAIS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -3416,7 +3416,7 @@ Visitem o meu grupo no facebook em: https://www.facebook.com/groups/TeamBlue.add
   <news>
 Add-on Retirado ds REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
         </news>
-    <summary lang="en">Tony Warlley TUTORIAIS by TONYWARLLEY</summary>
+    <summary lang="en">Addon com Todos Vídeos do Canal TW TUTORIAIS</summary>
     <description lang="en">Assista a TODOS VÍDEOS DO MEU CANAL</description>
     <platform>all</platform>
     <forum></forum>
@@ -3565,9 +3565,9 @@ This is a Non-profit resource, organized solely for educational purposes which i
 	<import addon="script.module.youtube.dl"/>
 </requires>
 	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
+		<info compressed="false">http://megarepo.repotwtutoriais.hostingerapp.com/addons.xml</info>
+		<checksum>http://megarepo.repotwtutoriais.hostingerapp.com/addons.xml.md5</checksum>
+		<datadir zip="true">http://megarepo.repotwtutoriais.hostingerapp.com/Plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
@@ -4551,7 +4551,7 @@ adulthideout@yandex.com[/COLOR]
     <platform>all</platform>
   </extension>
  </addon>
-<addon id="plugin.program.BUILDSTWTUTORIAIS" name="[B][COLOR white]*[COLOR yellow]BUILDS [COLOR mediumblue]TW[COLOR lime]TUTORIAIS[COLOR white]*[/COLOR][/B]" version="1.1.1" provider-name="by TONYWARLLEY">
+<addon id="plugin.program.BUILDSTWTUTORIAIS" name="[B][COLOR white]*[COLOR yellow]BUILDS [COLOR mediumblue]TW[COLOR lime]TUTORIAIS[COLOR white]*[/COLOR][/B]" version="1.1.2" provider-name="by TONYWARLLEY">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -4891,8 +4891,8 @@ Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes Dublados.</
   </extension>
 </addon>
 <addon id="plugin.video.nostalgia"
-       name="[COLOR gold][B].:Nostalgia:.[/B][/COLOR]"
-       version="1.7.2"
+       name="-[COLOR gold][B].:Nostalgia:.[/B][/COLOR]-"
+       version="1.7.5"
        provider-name="by @tonywarlley">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -5180,8 +5180,8 @@ v0.12.9 (2018-04-16)
   </extension>
 </addon>
 <addon id="plugin.video.iptvTWTUTORIAIS"
-       name="[COLOR green][B]IPTV[/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR]"
-       version="1.3"
+       name="-[COLOR green][B]IPTV[/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR]-"
+       version="1.6"
        provider-name="by TWTUTORIAIS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -5660,5 +5660,20 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 		<platform>all</platform>
 	</extension>
 	
+</addon>
+<addon id="plugin.video.MMmaroto" name="-[B][COLOR yellow]MM[/COLOR] [COLOR lime]Maroto[/COLOR][/B]-" version="1.7.4" provider-name="Team TWT and KODISH">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR yellow]MM TWTUTORIAIS and KODISH MC[/COLOR]</summary>
+    <description lang="en">Não somos responsáveis por colocar o conteúdo online, apenas indexamos. Para sugestões use nossa página no FACEBOOK: [COLOR mediumblue]https://www.facebook.com/BuildTonyWarlley/[/COLOR] ou [COLOR mediumblue]https://www.facebook.com/groups/kodish/[/COLOR][COLOR lime] [B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</description>
+	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
+	[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</disclaimer>
+    <platform>all</platform>
+	<news>PALMEIRAS NÃO TEM MUNDIAL.
+	</news>
+  </extension>
 </addon>
 </addons>
