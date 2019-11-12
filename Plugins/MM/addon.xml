@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.MMmaroto" name="-[B][COLOR yellow]MM[/COLOR] [COLOR lime]Maroto[/COLOR][/B]-" version="1.7.4" provider-name="Team TWT and KODISH">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR yellow]MM TWTUTORIAIS and KODISH MC[/COLOR]</summary>
+    <description lang="en">Não somos responsáveis por colocar o conteúdo online, apenas indexamos. Para sugestões use nossa página no FACEBOOK: [COLOR mediumblue]https://www.facebook.com/BuildTonyWarlley/[/COLOR] ou [COLOR mediumblue]https://www.facebook.com/groups/kodish/[/COLOR][COLOR lime] [B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</description>
+	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
+	[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</disclaimer>
+    <platform>all</platform>
+	<news>PALMEIRAS NÃO TEM MUNDIAL.
+	</news>
+  </extension>
+</addon>
