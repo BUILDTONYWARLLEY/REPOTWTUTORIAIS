@@ -1,25 +1,18 @@
 <addons>
 <addon id="plugin.video.Tv-Fogo-HD"
        name="[B][COLOR red]Tv Fogo HD[/COLOR][/B]"
-       version="3.1"
+       version="4.0"
        provider-name="[B][COLOR yellow]Equipe: TV Fogo[/COLOR][/B]">
+
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
     <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
     <import addon="script.module.requests" />
     <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
     <import addon="script.module.urlresolver"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.livestreamer" optional="true"/>
-	
+    <import addon="script.module.simplejson" />
   </requires>
   <extension point="xbmc.python.pluginsource" library="default.py">
     <provides>video</provides>
@@ -27,9 +20,9 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]</summary>
     <description lang="en">[B][COLOR white]Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]
-	Esse Add-on pertence a MEGAREPO TWTUTORIAIS, se você instalou esse add-on e não possui a MEGAREPO TWTUTORIAIS, está correndo sério risco de ter seu dispositivo infectado por VÍRUS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.</description>
-	<news>
-[B][COLOR chocolate]v2.1 - PEQUENAS CORREÇÕES, OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]
+	Esse Add-on pertence a MEGAREPO TWTUTORIAIS, se você instalou esse add-on e não possui a MEGAREPO TWTUTORIAIS, está correndo sério risco de ter seu dispositivo infectado por VÍRUS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TWTUTORIAIS.</description>
+    <news>
+[B][COLOR chocolate]v4.0 - CORREÇÕES DE SEGURANÇA, OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]
 </news>
     <platform>all</platform>
 	<assets>
@@ -520,8 +513,8 @@ Channels and Playlists organized by categories. Source: Youtube Website.
   </extension>
 </addon>
 <addon id="plugin.video.vagalumefm"
-       name="Vagalume FM"
-       version="1.4"
+       name="-[COLOR lime][B]Vagalume FM[/B][/COLOR]"
+       version="1.6"
        provider-name="Kractos Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -545,6 +538,9 @@ Channels and Playlists organized by categories. Source: Youtube Website.
     <provides>audio</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
+  <news>
+Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+        </news>
     <summary lang="en">Vagalume Fm</summary>
     <description lang="pt-br">Ouça vossas Radios Favoritas Atraves desse Addon</description>
 	<description lang="en">Listen your favorites radios this Addon</description>
@@ -3116,7 +3112,7 @@ Add-on Retirado ds REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não seja
         <platform>all</platform>
     </extension>
 </addon>
-<addon id="plugin.video.atto.series" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR white] - [COLOR pink]SERIES!.[/COLOR][/B]" version="2.4" provider-name="[COLOR aqua]Team ATTO[/COLOR]">
+<addon id="plugin.video.atto.series" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR white] - [COLOR pink]SERIES!.[/COLOR][/B]" version="2.9" provider-name="[COLOR aqua]Team ATTO[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.t0mm0.common" version="2.1.1" />
@@ -3150,7 +3146,7 @@ Add-on Retirado ds REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não seja
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.atto.filmes" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR white] - [COLOR violet]FILMES!.[/COLOR][/B]" version="2.4" provider-name="[COLOR aqua]Team ATTO[/COLOR]">
+<addon id="plugin.video.atto.filmes" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR white] - [COLOR violet]FILMES!.[/COLOR][/B]" version="2.9" provider-name="[COLOR aqua]Team ATTO[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.t0mm0.common" version="2.1.1" />
@@ -3367,7 +3363,7 @@ Visitem o meu grupo no facebook em: https://www.facebook.com/groups/TeamBlue.add
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.atto" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR blue] - [COLOR gold]CANAIS[COLOR blue] - [COLOR white]IPTV.[/COLOR][/B]" version="7.0" provider-name="[COLOR aqua]Team ATTO[/COLOR]">
+<addon id="plugin.video.atto" name="[B][COLOR black]_[COLOR aqua]ATTO[COLOR blue] - [COLOR gold]CANAIS[COLOR blue] - [COLOR white]IPTV.[/COLOR][/B]" version="7.5" provider-name="[COLOR aqua]Team ATTO[/COLOR]">
     <requires>
         <import addon="xbmc.python" version="2.1.0" />
         <import addon="script.module.t0mm0.common" version="2.1.1" />
@@ -3544,7 +3540,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="repo.TWTUTORIAIS" name="[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]" version="2.0" provider-name="repo.TWTUTORIAIS">
+<addon id="repo.TWTUTORIAIS" name="-[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="4.0" provider-name="repo.TWTUTORIAIS">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -3565,16 +3561,24 @@ This is a Non-profit resource, organized solely for educational purposes which i
 	<import addon="script.module.youtube.dl"/>
 </requires>
 	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">http://megarepo.repotwtutoriais.hostingerapp.com/addons.xml</info>
-		<checksum>http://megarepo.repotwtutoriais.hostingerapp.com/addons.xml.md5</checksum>
-		<datadir zip="true">http://megarepo.repotwtutoriais.hostingerapp.com/Plugins/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
-Add-on INSTALADO VIA REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
+[COLOR white]Add-on INSTALADO VIA REPO MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
+
+
+[COLOR lime]E o Palmeiras não tem Mundial[/COLOR]
         </news>
-		<summary>Repositorio TWTutoriais</summary>
-		<description>Repositório TWTutoriais - Proibido Cópia e Reprodução sem Autorização.</description>
+		<summary>Repositorio MEGAREPO TWTutoriais</summary>
+		<description>[COLOR mediumblue]Add-on INSTALADO VIA REPO MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
+[COLOR lime][B]Repositório MEGAREPO TWTutoriais - Proibida Cópia e Reprodução sem Autorização.[/B][/COLOR]
+
+[COLOR yellow]Que DÓ das formiguinhas...kkk
+Nunca Serão, Jamais Serão![/COLOR]
+		</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
@@ -4446,7 +4450,7 @@ adulthideout@yandex.com[/COLOR]
 		</assets>
 	</extension>
 </addon>
-<addon id="plugin.video.desenhostwt" name="[B][COLOR gold] .Desenhos TWTutoriais[/COLOR][/B]" version="1.5" provider-name="@tonywarlley">
+<addon id="plugin.video.desenhostwt" name="-[B][COLOR gold] Desenhos TWTutoriais[/COLOR][/B] -" version="1.6" provider-name="@tonywarlley">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -4551,7 +4555,7 @@ adulthideout@yandex.com[/COLOR]
     <platform>all</platform>
   </extension>
  </addon>
-<addon id="plugin.program.BUILDSTWTUTORIAIS" name="[B][COLOR white]*[COLOR yellow]BUILDS [COLOR mediumblue]TW[COLOR lime]TUTORIAIS[COLOR white]*[/COLOR][/B]" version="1.1.2" provider-name="by TONYWARLLEY">
+<addon id="plugin.program.BUILDSTWTUTORIAIS" name="-[B][COLOR white].[COLOR mediumblue]WIZARD [COLOR lime]BUILDS [COLOR yellow]TWTutoriais [COLOR white][/COLOR][/B]-" version="1.3.0" provider-name="by TWTUTORIAIS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -4561,8 +4565,13 @@ adulthideout@yandex.com[/COLOR]
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
     <summary lang="en">WIZARD BUILDS TWTUTORIAIS</summary>
-    <description lang="en">Instalador para instalação das BUILDS TONYWARLLEY TUTORIAIS, Cópia não autorizada, Uso conteúdo é pessoal não upamos nada que não esteja na internet e canal não se responsabiliza danos materiais e judiciais do mal uso do Kodi. Fazemos instalações e review sob vigência
-Fair Use</description>
+    <description lang="en">[COLOR yellow]OFICIAL WIZARD BUILDS TWTUTORIAIS[/COLOR]
+[COLOR lime]Instalador para instalação das BUILDS TONYWARLLEY TUTORIAIS, Cópia não autorizada, Uso conteúdo é pessoal não upamos nada que não esteja na internet e canal não se responsabiliza danos materiais e judiciais do mal uso do Kodi. Fazemos instalações e review sob vigência
+Fair Use[/COLOR]
+
+[COLOR yellow]Que DÓ das formiguinhas...kkk
+Nunca Serão, Jamais Serão![/COLOR]
+</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -4588,7 +4597,7 @@ Toda a fonte  vem de utilizadores do Youtube.
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.0.8" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
+<addon id="plugin.video.BrazucaPlay" name="[B][COLOR white]BRAZUCA PLAY[/COLOR][/B]" version="2.0.9" provider-name="[B][COLOR white]Brazuca Play[/COLOR][/B]">
 <requires>
 <import addon="xbmc.python" version="2.1.0"/>
 <import addon="script.module.t0mm0.common"/>
@@ -4607,12 +4616,9 @@ Toda a fonte  vem de utilizadores do Youtube.
 </extension>
 <extension point="xbmc.addon.metadata">
 <summary>[B][COLOR white]TV, Filmes, Séries, Desenhos e Animes.[/COLOR]</summary>
-<description>[B][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][B][COLOR lime] Installed from the MEGAREPO TONYWARLLEY[/COLOR][/B]</description>
-<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON > DOAÇÕES: [/COLOR][COLOR gold]BIT.LY/BRPLAYDONATE[/COLOR][/B]</disclaimer>
-<news>
-[B][COLOR gold]v2.0.8 - CORREÇÃO DE AGOSTO DE 2019.[/COLOR][/B]
-[B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]
-</news>
+<description>[B][COLOR blue]●[/COLOR][COLOR white]Brazuca Play é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Proibido a venda dos add-ons do Brazuca Play.[/COLOR][/B][CR][B][COLOR firebrick]●[/COLOR] [COLOR white]Não vendemos IPTV, caso ache sites ou mesmo apps é falso.[/COLOR][/B]</description>
+<disclaimer>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON [COLOR pink]S2[/COLOR][/COLOR][/B]</disclaimer>
+<news>[B][COLOR gold]v2.0.9 - CORRIGIDO INFORMAÇÕES.[/COLOR][CR][COLOR gold]v2.0.8 - ATUALIZAÇÃO DE CONFIGS.[/COLOR][/B][CR][B][COLOR gold]v2.0.7 - PEQUENAS CORREÇÕES DE 2019.[/COLOR][/B]</news>
 <platform>all</platform>
 <assets>
 <icon>icon.png</icon>
@@ -4892,7 +4898,7 @@ Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes Dublados.</
 </addon>
 <addon id="plugin.video.nostalgia"
        name="-[COLOR gold][B].:Nostalgia:.[/B][/COLOR]-"
-       version="1.7.5"
+       version="1.7.7"
        provider-name="by @tonywarlley">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -5180,9 +5186,9 @@ v0.12.9 (2018-04-16)
   </extension>
 </addon>
 <addon id="plugin.video.iptvTWTUTORIAIS"
-       name="-[COLOR green][B]IPTV[/B][/COLOR][COLOR mediumblue][B]TWT[/B][/COLOR][COLOR yellow][B]utoriais[/B][/COLOR]-"
-       version="1.6"
-       provider-name="by TWTUTORIAIS">
+       name="-[COLOR mediumblue][B]IPTV [/B][/COLOR][COLOR lime][B]TW [/B][/COLOR][COLOR yellow][B]Tutoriais[/B][/COLOR] -"
+       version="2.3"
+       provider-name="TWTutoriais - THE KING OF KODI">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -5210,7 +5216,10 @@ v0.12.9 (2018-04-16)
         [COLOR white][B]Todos os links disponibilizados nesse Addon estão disponíveis 
 em livre procura pela internet.[/B][/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]
 [COLOR yellow][B]ACESSE e INSCREVA-SE no Meu CANAL do YOUTUBE:[/B][/COLOR] 
-http://www.youtube.com/tonywarlley2009 
+http://www.youtube.com/tonywarlley2009
+
+[COLOR yellow]Que DÓ das formiguinhas...kkk
+Nunca Serão, Jamais Serão![/COLOR]
              
     </description>
     <platform>all</platform>
@@ -5675,5 +5684,62 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 	<news>PALMEIRAS NÃO TEM MUNDIAL.
 	</news>
   </extension>
+</addon>
+<addon id="plugin.video.kratosteam"
+       name="-[COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]-"
+       version="2020.kubernotes.mx.1"
+       provider-name="Kodish MC e TWTutoriais">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+			
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR yellow]KRATOS 2020 by TWTUTORIAIS and KODISH MC[/COLOR]</summary>
+    <description lang="en">Não somos responsáveis por colocar o conteúdo online, apenas indexamos. Para sugestões use nossa página no FACEBOOK: [COLOR mediumblue]https://www.facebook.com/BuildTonyWarlley/[/COLOR] ou [COLOR mediumblue]https://www.facebook.com/groups/kodish/[/COLOR][COLOR lime] [B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</description>
+	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
+	[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</disclaimer>
+    <platform>all</platform>
+	<news>PALMEIRAS NÃO TEM MUNDIAL.
+	</news>
+  </extension>
+ </addon>
+ <addon id="KeltecMP.repository" name="[B]Proibido--Mantenha a Segurança do seu Kodi Desinstale Isso!--(VÍRUS)[/B]" version="9999999.999999999999999999999" provider-name="[B]BICHONA ENRUSTIDA[/B]">
+<requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+</requires>
+	<extension point="xbmc.addon.repository" name="[B]BICHONA ENRUSTIDA[/B]">
+		<info compressed="false">https://web-keltecmp.ml/repo/QUEBRADO-DE-MERDA.xml</info>
+		<checksum>https://web-keltecmp.ml/repo/addons.xml.md24</checksum>
+		<datadir zip="true">https://web-keltecmp.ml/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+	  <news>
+| Proibido--Mantenha a Segurança do seu Kodi Desinstale Isso!--(VÍRUS) E EU SOU UM CORNO VIADÃO...KKK 
+ - OLHEM AS FOTOS DA VAGA DA MINHA ESPOSA DANDO A BUND* PARA MEU MACHO 
+https://ia801002.us.archive.org - 
+https://ia801002.us.archive.org - 
+https://ia801002.us.archive.org 
+ - VAI SEGURANDO AI FILHO DA PUT* - NÃO GOSTA DE MODIFICAR AS COISAS DOS OUTROS E INVENTAR MENTIRAS SEU VAGABUND*. QUEM PODE MAIS CHORA MENOS[/B]
+        </news>
+		<summary>CORNO Protect Build</summary>
+		<description>O ANALFABETO, É PROTEÇÃO QUE SE ESCREVE, NÃO PROTECTEÇÃO...KKK ANIMAL, ALÉM DE VIADO É BURRO E ANALFABETO - Protecteção Exclusiva Da Build DE MERDA QUE NÃO FUNCIONA DIREITO</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
 </addon>
 </addons>
