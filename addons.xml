@@ -4898,7 +4898,7 @@ Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes Dublados.</
 </addon>
 <addon id="plugin.video.nostalgia"
        name="-[COLOR gold][B].:Nostalgia:.[/B][/COLOR]-"
-       version="1.7.7"
+       version="1.7.8"
        provider-name="by @tonywarlley">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
