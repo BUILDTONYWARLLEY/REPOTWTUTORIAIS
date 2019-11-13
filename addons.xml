@@ -514,7 +514,7 @@ Channels and Playlists organized by categories. Source: Youtube Website.
 </addon>
 <addon id="plugin.video.vagalumefm"
        name="-[COLOR lime][B]Vagalume FM[/B][/COLOR]-"
-       version="1.7"
+       version="1.8"
        provider-name="Kractos Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
