@@ -1,7 +1,7 @@
 <addons>
 <addon id="plugin.video.Tv-Fogo-HD"
        name="[B][COLOR red]Tv Fogo HD[/COLOR][/B]"
-       version="4.0"
+       version="5.0"
        provider-name="[B][COLOR yellow]Equipe: TV Fogo[/COLOR][/B]">
 
   <requires>
