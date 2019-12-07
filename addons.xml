@@ -5670,7 +5670,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
 	</extension>
 	
 </addon>
-<addon id="plugin.video.MMmaroto" name="-[B][COLOR yellow]MM[/COLOR] [COLOR lime]Maroto[/COLOR][/B]-" version="1.7.4" provider-name="Team TWT and KODISH">
+<addon id="plugin.video.MMmaroto" name="-[B][COLOR yellow]MM[/COLOR] [COLOR lime]Maroto[/COLOR][/B]-" version="1.7.5" provider-name="Team TWT and KODISH">
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
