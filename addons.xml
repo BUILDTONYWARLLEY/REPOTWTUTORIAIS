@@ -5631,7 +5631,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
     <news>v0.0.1.93 - Scraper cleanup and EOL fixes</news>
     </extension>
 </addon>
-	<addon id="Kodish.repo.store" name="Kodish Store Amaterasu MX" version="12.0" provider-name="Kodish-MC">
+	<addon id="Kodish.repo.store" name="Kodish Store Karmagedon" version="12.0" provider-name="Kodish-MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
