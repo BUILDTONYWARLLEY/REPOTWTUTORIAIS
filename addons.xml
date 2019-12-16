@@ -5879,7 +5879,7 @@ https://ia801002.us.archive.org
  </addon>
 	<addon id="plugin.video.pikachu"
        name="[B][COLOR yellow][B]PIKACHU [COLOR lime] ENTRETENIMENTOS!!![/B][/COLOR]"
-       version="1.0.8.1"
+       version="1.0.8.2"
        provider-name="[B][COLOR yellow] PIKACHU [COLOR lime] ENTRETENIMENTOS!!![/COLOR][/B]">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
