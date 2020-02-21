@@ -5850,7 +5850,7 @@ https://ia801002.us.archive.org
 </addon>
 	<addon id="plugin.video.cangaco"
        name="Hidra Cangaço"
-       version="4.Colbalto.2"
+       version="4.Colbalto.4"
        provider-name="Kodish MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
