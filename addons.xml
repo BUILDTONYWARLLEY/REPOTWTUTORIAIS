@@ -1,39 +1,4 @@
 <addons>
-<addon id="plugin.video.Tv-Fogo-HD"
-       name="[B][COLOR red]Tv Fogo HD[/COLOR][/B]"
-       version="5.0"
-       provider-name="[B][COLOR yellow]Equipe: TV Fogo[/COLOR][/B]">
-
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.urlresolver"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]</summary>
-    <description lang="en">[B][COLOR white]Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]
-	Esse Add-on pertence a MEGAREPO TWTUTORIAIS, se você instalou esse add-on e não possui a MEGAREPO TWTUTORIAIS, está correndo sério risco de ter seu dispositivo infectado por VÍRUS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TWTUTORIAIS.</description>
-    <news>
-[B][COLOR chocolate]v4.0 - CORREÇÕES DE SEGURANÇA, OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]
-</news>
-    <platform>all</platform>
-	<assets>
-<icon>icon.png</icon>
-<fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
-</assets>
-  </extension>
-</addon>
 <addon id="plugin.program.tonywarlley" name="Builds TONYWARLLEY" version="2.1" provider-name="@TONYWARLLEY">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -5742,38 +5707,6 @@ https://ia801002.us.archive.org
 		<platform>all</platform>
 	</extension>
 </addon>
-	<addon id="plugin.video.tvfogohd" name="[B][COLOR white]Tv Fogo HD[/COLOR][/B]" version="4.0" provider-name="[B][COLOR white]Equipe: TV Fogo[/COLOR][/B]">
-<requires>
-<import addon="xbmc.python" version="2.1.0"/>
-<import addon="script.module.t0mm0.common"/>
-<import addon="script.module.beautifulsoup"/>
-<import addon="script.module.beautifulsoup4"/>
-<import addon="script.module.simple.downloader"/>
-<import addon="script.module.requests"/>
-<import addon="script.module.httplib2"/>
-<import addon="script.module.urlresolver"/>
-<import addon="script.module.simplejson"/>
-<import addon="script.common.plugin.cache"/>
-<import addon="script.module.metahandler"/>
-</requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
-<provides>video</provides>
-</extension>
-<extension point="xbmc.addon.metadata">
-<summary>[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]</summary>
-<description>[B][COLOR white]Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
-<disclaimer>[B][COLOR white]TV, FILMES, SERIES, NOVELAS, TOKUSATSU, DESENHOS, ANIMES[COLOR gold]S2[/COLOR][/COLOR][/B]</disclaimer>
-<news>[B][COLOR chocolate]v4.0 - CORREÇÕES DE SEGURANÇA, OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]</news>
-<platform>all</platform>
-<assets>
-<icon>icon.png</icon>
-<fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
-</assets>
-</extension>
-</addon>
 	<addon id="PIRATES.repository" name="PIRATES repository" version="1.0.0" provider-name="CRISESPNL">
 	<requires>
 <import addon="xbmc.python" version="2.1.0"/>
@@ -5904,41 +5837,6 @@ https://ia801002.us.archive.org
     <description lang="en">Destiny and Deathstar have been united. Tweaked Version by DaB.
 	- [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</description>
     <platform>all</platform>
-  </extension>
-</addon>
-	<addon id="plugin.video.TvFire"
-       name="[B][COLOR white]Tv Fogo HD[/COLOR][/B]"
-       version="6.0"
-       provider-name="[B][COLOR yellow]Equipe: TV Fogo[/COLOR][/B]">
-
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.urlresolver"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[B][COLOR white]OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]</summary>
-    <description lang="en">[B][COLOR white]Tv Fogo HD é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
-    <news>
-[B][COLOR chocolate]v4.0 - CORREÇÕES DE SEGURANÇA, OBRIGADO POR USAR NOSSO ADD-ON[/COLOR][/B]
-[B][COLOR chocolate]v6.0 - PASSAMOS PROCESSO DE MUDANCA MAS COM QUALIDADE DE SEMPRE[/COLOR][/B]
-</news>
-    <platform>all</platform>
-	<assets>
-<icon>icon.png</icon>
-<fanart>fanart.jpg</fanart>
-<screenshot>resources/screenshots/home.png</screenshot>
-<screenshot>resources/screenshots/movies.png</screenshot>
-<screenshot>resources/screenshots/series.png</screenshot>
-</assets>
   </extension>
 </addon>
 	<addon id="plugin.video.firehd"
