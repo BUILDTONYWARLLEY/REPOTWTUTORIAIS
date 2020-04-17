@@ -5941,4 +5941,26 @@ https://ia801002.us.archive.org
 		<platform>all</platform>
 	</extension>
 </addon>
+	<addon id="plugin.video.pantyraiders" name="[COLOR darkviolet][B]Panty Raiders[/B][/COLOR]" version="2.2" provider-name="Jimmy Jones">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.beautifulsoup4" version="4.3.1"/> 
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" />
+
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  <summary lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - 18+ Adult only addon</summary>
+  <description lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - No content is hosted by the addon creators</description>
+  <disclaimer lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - No content is hosted by the addon creators</disclaimer>
+  <platform>all</platform>
+  </extension>
+</addon>
 </addons>
