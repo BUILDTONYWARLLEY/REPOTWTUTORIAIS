@@ -5988,4 +5988,76 @@ https://ia801002.us.archive.org
 		<website></website>
 	</extension>
 </addon>
+	<addon id="plugin.video.tokuflix" name="[B][COLOR white]Tokuflix[/COLOR][/B]" version="1.0" provider-name="Tokuflix e Kodish Team">
+<requires>
+<import addon="xbmc.python" version="2.1.0"/>
+<import addon="script.module.t0mm0.common"/>
+<import addon="script.module.beautifulsoup"/>
+<import addon="script.module.beautifulsoup4"/>
+<import addon="script.module.simple.downloader"/>
+<import addon="script.module.requests"/>
+<import addon="script.module.httplib2"/>
+<import addon="script.module.urlresolver"/>
+<import addon="script.module.simplejson"/>
+<import addon="script.common.plugin.cache"/>
+<import addon="script.module.metahandler"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+<provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+<summary>[B][COLOR white]Tokuflix[/COLOR][/B]</summary>
+<description>[B][COLOR white]O Melhor Site Tokusatsu agora no seu Kodi[/COLOR][/B]</description>
+<disclaimer></disclaimer>
+<news></news>
+<platform>all</platform>
+<assets>
+<icon>icon.png</icon>
+<fanart>fanart.jpg</fanart>
+<screenshot>resources/screenshots/home.jpg</screenshot>
+<screenshot>resources/screenshots/movies.jpg</screenshot>
+<screenshot>resources/screenshots/series.jpg</screenshot>
+</assets>
+</extension>
+</addon>
+	<addon id="plugin.video.YouKids"
+       name="[B][COLOR white]YOU[COLOR red]KIDS[/B][/COLOR]"
+       version="0.0.4"
+       provider-name="@twtutoriais">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="1.9.5"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+	</extension>
+   <extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
+		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <summary> - [COLOR lime]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/COLOR]</summary>
+    <description> - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] 
+	              - Addon Infantil com Conteúdo Variado
+
+[COLOR yellow]Que DÓ das formiguinhas...kkk
+Nunca Serão, Jamais Serão![/COLOR]
+             
+    </description>
+    <platform>all</platform>
+ 
+  </extension>
+</addon>
 </addons>
