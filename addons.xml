@@ -2327,19 +2327,19 @@ Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sej
 <website/>
 </extension>
 </addon>
-<addon id="plugin.video.now_music_usa" name="[COLOR blue]N[/COLOR]ow [COLOR red]M[/COLOR]usic [COLOR white]U[/COLOR]SA"	version="1.0.8"	provider-name="Pulse Builds"> 
+<addon id="plugin.video.now_music_usa" name="[COLOR yellow]Now Thats What I Call Music[/COLOR]"	version="5.6.3"	provider-name="Mod by TWTUTORIAIS"> 
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
+    <import addon="plugin.video.youtube" version="6.7.0"/>
   </requires>
   <extension point="xbmc.python.pluginsource" library="pulse.py">
-    <provides>video</provides>
+    <provides>audio video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Now Thats What I Call Music USA Collection</summary>
-    <description lang="en">All Content In This Addon Is Freely Available On The Internet</description>
-    <disclaimer lang="en">Please Use Genuine PULSE BUILDS And Addons From Genuine Sources</disclaimer>
+    <summary lang="en"> - [COLOR lime]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/COLOR] - Now Thats What I Call Music Collection</summary>
+    <description lang="en"></description>
+    <disclaimer lang="en"></disclaimer>
     <platform>all</platform>
     <forum>n/a</forum>
     <website>n/a</website>
