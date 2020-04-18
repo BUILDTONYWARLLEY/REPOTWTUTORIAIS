@@ -417,36 +417,6 @@ Channels and Playlists organized by categories. Source: Youtube Website.
         <description>Assista filmes e séries online em seu computador, notebook ou celular.</description>
     </extension>
 </addon>
-<addon id="plugin.video.skyonplus"
-       name="Sky on Plus"
-       version="1.0.0"
-       provider-name="Kodish MC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-			
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Sky On Plus</summary>
-    <description lang="en">Filmes do Sky On Plus</description>
-    <platform>all</platform>
-  </extension>
- 
-</addon>
 <addon id="plugin.video.TopCine"
        name="[COLOR red][B]TopCine[/B][/COLOR]"
        version="0.0.1"
@@ -4520,7 +4490,7 @@ adulthideout@yandex.com[/COLOR]
     <platform>all</platform>
   </extension>
  </addon>
-<addon id="plugin.program.BUILDSTWTUTORIAIS" name="-[B][COLOR white].[COLOR mediumblue]WIZARD [COLOR lime]BUILDS [COLOR yellow]TWTutoriais [COLOR white][/COLOR][/B]-" version="1.3.0" provider-name="by TWTUTORIAIS">
+<addon id="plugin.program.BUILDSTWTUTORIAIS" name="-[B][COLOR white].[COLOR mediumblue]WIZARD [COLOR lime]BUILDS [COLOR yellow]TWTutoriais [COLOR white][/COLOR][/B]-" version="1.4.0" provider-name="by TWTUTORIAIS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
@@ -5596,7 +5566,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
     <news>v0.0.1.93 - Scraper cleanup and EOL fixes</news>
     </extension>
 </addon>
-	<addon id="Kodish.repo.store" name="Kodish Store Karmagedon" version="12.0" provider-name="Kodish-MC">
+	<addon id="Kodish.repo.store" name="Kodish Store Karmagedon" version="13.0" provider-name="Kodish-MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
