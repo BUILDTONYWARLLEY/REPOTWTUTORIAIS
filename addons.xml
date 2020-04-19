@@ -6141,4 +6141,38 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
     </assets>
   </extension>
 </addon>
+	<addon id="plugin.video.Fusion.Orgzm"
+       name="[B][COLOR white]Fusion.[/COLOR][CR][COLOR red]Orgzm[/COLOR][/B]"
+       version="0.0.5"
+       provider-name="[COLOR red]**SENHA**[/COLOR] : [COLOR yellow]bender[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="1.9.5"/>
+    <import addon="script.module.beautifulsoup4" version="4.6.2"/>
+    <import addon="script.module.requests" version="2.22.0"/>
+    <import addon="script.module.httplib2"/>
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true"/>
+    <import addon="script.module.dateutil" optional="true" />
+    <import addon="script.module.urlresolver" version="5.0.42" optional="true"/>
+    <import addon="script.module.resolveurl" version="5.0.34" optional="true"/>
+    <import addon="script.module.inputstreamhelper" optional="true"/>
+    <import addon="script.module.simplejson" version="3.16.1"/>    
+    <import addon="script.module.livestreamer" optional="true"/>
+    <import addon="script.module.slproxy" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+    <import addon="script.module.pyamf" optional="true"/>
+    <import addon="script.module.pydevd" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red]**SENHA**[/COLOR] : [COLOR yellow]bender[/COLOR] - Fusion ORGAZM</summary>
+    <description>[COLOR red]**SENHA**[/COLOR] : [COLOR yellow]bender[/COLOR] - Fusion ORGAZM</description>
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
