@@ -6175,4 +6175,18 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
     <platform>all</platform>
   </extension>
 </addon>
+	<addon id="script.module.librarypack" name="Library Pack" version="1.0.0" provider-name="tvaddons">
+	<requires>
+		<import addon="xbmc.python" version="2.24.0" />
+		<import addon="script.module.requests" />
+		<import addon="script.module.kodi-six" version="0.0.2"/>
+		<import addon="script.module.six" version="1.11.0"/>
+		<import addon="script.module.pytz" version="2014.2"/>
+	</requires>
+	<extension point="xbmc.python.module" library="lib" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Library Pack module for Kodi. Forked from Echo Coder, includes updated js2py library.</summary>
+	</extension>
+</addon>
 </addons>
