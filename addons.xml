@@ -6142,8 +6142,8 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
   </extension>
 </addon>
 	<addon id="plugin.video.Fusion.Orgzm"
-       name="[B][COLOR white]Fusion.[/COLOR][CR][COLOR red]Orgzm[/COLOR][/B]"
-       version="0.0.5"
+       name="[B][COLOR white]Fusion[/COLOR][COLOR red]Orgzm[/COLOR][/B]"
+       version="1.0.5"
        provider-name="[COLOR red]**SENHA**[/COLOR] : [COLOR yellow]bender[/COLOR]">
   <requires>
     <import addon="xbmc.python" version="2.25.0"/>
@@ -6170,8 +6170,12 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>[COLOR red]**SENHA**[/COLOR] : [COLOR yellow]bender[/COLOR] - Fusion ORGAZM</summary>
-    <description>[COLOR red]**SENHA**[/COLOR] : [COLOR yellow]bender[/COLOR] - Fusion ORGAZM</description>
+    <summary>
+	[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - 
+	[COLOR red]**SENHA**[/COLOR] : [COLOR lime]bender[/COLOR] - Fusion ORGAZM</summary>
+    <description>
+	[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - 
+	[COLOR red]**SENHA**[/COLOR] : [COLOR lime]bender[/COLOR] - Fusion ORGAZM</description>
     <platform>all</platform>
   </extension>
 </addon>
