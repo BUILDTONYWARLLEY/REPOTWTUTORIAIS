@@ -5122,7 +5122,7 @@ v0.12.9 (2018-04-16)
 </addon>
 <addon id="plugin.video.iptvTWTUTORIAIS"
        name="-[COLOR mediumblue][B]IPTV [/B][/COLOR][COLOR lime][B]TW [/B][/COLOR][COLOR yellow][B]Tutoriais[/B][/COLOR] -"
-       version="3.0"
+       version="3.1"
        provider-name="TWTutoriais - THE KING OF KODI">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -6270,5 +6270,39 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
         <forum>https://www.tvaddons.co/forums</forum>
         <website>https://www.tvaddons.co</website>
     </extension>
+</addon>
+	<addon
+  id="skin.xonfluence"
+  version="999999999999999.9"
+  name="SKIN MOD by TWTUTORIAIS"
+  provider-name="HACK BY TWTUTORIAIS">
+  <requires>
+    <import addon="xbmc.gui" version="5.10.0"/>
+
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">MOD by @tonywarlley SKIN MOD by TWTUTORIAIS e desenvolvida por TONYWARLLEY  Se quiser fazer uma doação entre em contato : tony_wpb@hotmail.com. Obrigado!!.</summary>
+    <summary lang="en_US">MOD by @tonywarlley SKIN MOD by TWTUTORIAIS e desenvolvida por TONYWARLLEY  Se quiser fazer uma doação entre em contato : tony_wpb@hotmail.com. Obrigado!!.</summary>
+    <summary lang="nl">MOD by @tonywarlley SKIN MOD by TWTUTORIAIS e desenvolvida por TONYWARLLEY  Se quiser fazer uma doação entre em contato : tony_wpb@hotmail.com. Obrigado!!.</summary>
+    <description lang="en">SKIN MOD by TWTUTORIAIS TONYWARLLEY for KODI 16.
+	Proibida a Cópia e Venda, se gostou não esqueça de Deixar o LIKE se quiser fazer uma doação entre em contato : tony_wpb@hotmail.com. Obrigado!!</description>
+    <description lang="en_US">SKIN MOD by TWTUTORIAIS TONYWARLLEY for KODI.16 
+	Proibida a Cópia e Venda, se gostou não esqueça de Deixar o LIKE se quiser fazer uma doação entre em contato : tony_wpb@hotmail.com. Obrigado!!</description>
+    <description lang="nl">SKIN MOD by TWTUTORIAIS TONYWARLLEY for KODI 16.
+	Proibida a Cópia e Venda, se gostou não esqueça de Deixar o LIKE se quiser fazer uma doação entre em contato : tony_wpb@hotmail.com. Obrigado!!</description>
+    <disclaimer lang="en">Proibida Cópia ou Venda. @tonywarlley Todos os direitos reservados.
+	Doações entre em Contato: tony_wpb@hotmail.com</disclaimer>
+    <disclaimer lang="en_US">Proibida Cópia ou Venda. @tonywarlley Todos os direitos reservados.
+	Doações entre em Contato: tony_wpb@hotmail.com</disclaimer>
+    <disclaimer lang="nl">Proibida Cópia ou Venda. @tonywarlley Todos os direitos reservados.
+	Doações entre em Contato: tony_wpb@hotmail.com</disclaimer>
+    <platform>all</platform>
+  </extension>
 </addon>
 </addons>
