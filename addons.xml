@@ -6277,8 +6277,7 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
   name="SKIN MOD by TWTUTORIAIS"
   provider-name="HACK BY TWTUTORIAIS">
   <requires>
-    <import addon="xbmc.gui" version="5.10.0"/>
-
+ 
   </requires>
   <extension
     point="xbmc.gui.skin"
