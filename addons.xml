@@ -6465,7 +6465,7 @@ Toda a fonte  vem de utilizadores do Youtube.
     <news>version 0.0.4</news>
   </extension>
 </addon>
-<addon id="plugin.program.SpeedTester.net" name="[COLOR white]SpeedTeste[/COLOR]" version="1.0.2.2" provider-name="@tonywarlley">
+<addon id="plugin.program.SpeedTester.net" name="[COLOR white]SpeedTeste[/COLOR]" version="10.0.2.2" provider-name="@tonywarlley">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
