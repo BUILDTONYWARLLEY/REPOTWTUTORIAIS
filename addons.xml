@@ -6446,4 +6446,66 @@ Toda a fonte  vem de utilizadores do Youtube.
 		<platform>all</platform>
 	</extension>
 </addon>
+	<addon id="plugin.video.skylinecctv" name="Skyline WebCams" version="0.0.4" provider-name="KODI">
+  <requires>
+    <import addon="xbmc.python" version="2.25.0"/>
+    <import addon="script.module.kodi-six" version="0.0.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Skyline webcams</summary>
+    <description lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - Skyline webcams</description>
+	<disclaimer lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - Skyline webcams</disclaimer>
+	<language>en es</language>
+    <license>GNU GPL, version 2</license>
+    <twitter>Twitter</twitter>
+    <website>Site</website>
+    <news>version 0.0.4</news>
+  </extension>
+</addon>
+<addon id="plugin.program.SpeedTester.net" name="[COLOR white]SpeedTeste[/COLOR]" version="1.0.2.2" provider-name="@tonywarlley">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - Teste a velocidade de sua Internet no seu KODI.</summary>
+    <description lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] -  Teste a velocidade de sua Internet no seu KODI.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.All.Kinds.of.Music"
+	name="[COLOR lime][B]All Kinds of Music[/B][/COLOR]"
+	version="1.3"
+	provider-name="[COLOR green]MICLIER[/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.14.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - All Kinds of Music by MICLIER</summary>
+    <description lang="de">
+     
+     [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] - 
+     Dieses Addon wurde gemacht für [COLOR green]Jederman!!![/COLOR]
+     Besuche uns im Forum unter: [B][COLOR white][/COLOR][/B].
+     Viel spass.
+    
+    </description>
+    <platform>all</platform>
+       <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+        <screenshot></screenshot>      
+    </assets>
+  </extension>
+</addon>
 </addons>
