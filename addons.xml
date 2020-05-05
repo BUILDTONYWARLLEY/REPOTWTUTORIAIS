@@ -6343,7 +6343,7 @@ Toda a fonte  vem de utilizadores do Youtube.
     <platform>all</platform>
   </extension>
 </addon>
-	<addon id="plugin.video.fapzone" name="[COLOR darkgoldenrod][B].FapZone[/B][/COLOR]" version="2.0.1" provider-name="@Nemzzy">
+	<addon id="plugin.video.fapzone" name="[COLOR darkgoldenrod][B].FapZone[/B][/COLOR]" version="2.0.6" provider-name="@Nemzzy">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0" />
