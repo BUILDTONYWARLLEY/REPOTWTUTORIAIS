@@ -6326,4 +6326,21 @@ Toda a fonte  vem de utilizadores do Youtube.
     <platform>all</platform>
   </extension>
 </addon>
+	<addon id="plugin.video.chaturbate" name="Chaturbate" version="2.4.2" provider-name="LivingOn,HSK Fix">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+   	
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="de">Chaturbate</summary>
+    <description lang="de">Der Name sagt alles!</description>
+    <disclaimer lang="de">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] -  Diese Software steht unter der GNU General Public License version 2[CR][CR]Copyright (c) 2014-2017 </disclaimer>
+    <description lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] -  The name says it all!</description>
+    <disclaimer lang="en">[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR] -  This software is licensed under the GNU General Public License version 2[CR][CR]Copyright (c) 2014-2017 </disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
