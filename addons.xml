@@ -2481,7 +2481,7 @@ Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sej
 </addon>
 <addon id="plugin.video.uwc"
        name="Ultimate Whitecream"
-       version="1.1.63"
+       version="1.2.19"
        provider-name="Whitecream, holisticdioxide">
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
