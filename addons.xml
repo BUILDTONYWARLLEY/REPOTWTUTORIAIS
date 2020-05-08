@@ -5773,7 +5773,7 @@ https://ia801002.us.archive.org
  </addon>
 	<addon id="plugin.video.destinyds"                                                                                                                                    
 	   name="Destiny of Deathstar"                                                 
-	   version="1.4.0"                                                                                                                                        
+	   version="1.4.2"                                                                                                                                        
 	   provider-name="Dark Child">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
