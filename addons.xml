@@ -5771,19 +5771,19 @@ https://ia801002.us.archive.org
     <platform>all</platform>
   </extension>
  </addon>
-	<addon id="plugin.video.destinyds"                                                                                                                                    
+<addon id="plugin.video.destinyds"                                                                                                                                    
 	   name="Destiny of Deathstar"                                                 
 	   version="1.4.2"                                                                                                                                        
 	   provider-name="Dark Child">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.requests"/>
-	<import addon="script.module.python.koding.aio" version="0.9.6.6" />
+	<import addon="script.module.python.koding.aio.alt" version="1.1" />
 	<import addon="script.module.resolveurl" version="5.0.00"/>
 	<import addon="script.common.plugin.cache" version="2.5.5"/>
 	<import addon="script.module.pyxbmct" version="1.1.4" />
 	<import addon="script.module.futures" version="2.2.0"/>
-	<import addon="script.module.universalscrapers"/>
+	<import addon="script.module.universaldebrid"/>
 	<import addon="script.module.beautifulsoup4" version="4.5.3"/>
 	<import addon="script.module.feedparser" />
 	<import addon="script.module.dateutil" />
@@ -5796,7 +5796,7 @@ https://ia801002.us.archive.org
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Fork of Destiny</summary>
     <description lang="en">Destiny and Deathstar have been united. Tweaked Version by DaB.
-	- [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</description>
+		- [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</description>
     <platform>all</platform>
   </extension>
 </addon>
