@@ -2909,11 +2909,13 @@ This is a Non-profit resource, organized solely for educational purposes which i
 		<import addon="script.module.exodus" />
 		<import addon="script.exodus.artwork" />
 		<import addon="script.exodus.metadata" />
-		<import addon="script.module.resolveurl" />
+		<import addon="script.module.urlresolver" />
 		<import addon="script.module.requests" />
+		<import addon="script.module.exoscrapers" />
 		<import addon="script.module.metahandler" version="1.0.0" />
+
 	</requires>
-	<extension point="xbmc.python.pluginsource" library="exodus.py">
+	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>video</provides>
 	</extension>
 	<extension point="xbmc.service" library="service.py" start="startup" />
