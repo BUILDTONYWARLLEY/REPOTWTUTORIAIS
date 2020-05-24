@@ -6777,7 +6777,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
 - Artwork small fix</news>
 	</extension>
 </addon>
-	<addon id="plugin.video.DiariodeMotochileiroAfredoSouza" name="[B][COLOR gold]Diário de Motochileiro por Alfredo Souza[/COLOR][/B]" version="1.0.0" provider-name="Created by TEAM TWTUTORIAIS">
+	<addon id="plugin.video.DiariodeMotochileiroAfredoSouza" name="[B][COLOR gold]Diário de Motochileiro por Alfredo Souza[/COLOR][/B]" version="1.0.1" provider-name="Created by TEAM TWTUTORIAIS">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -6792,7 +6792,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
   <news>
 [B][COLOR lime]Add-on EXCLUSIVO MEGAREPO, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL MEGATONY TUTORIAIS.[/COLOR][/B]
         </news>
-    <summary lang="en">Addon com Todos Vídeos do Canal Diário de Motochileiro por Alfredo Souza</summary>
+    <summary lang="en">[B][COLOR lime]Add-on EXCLUSIVO MEGAREPO[/COLOR][/B] - Addon com Todos Vídeos do Canal Diário de Motochileiro por Alfredo Souza</summary>
     <description lang="en">Assista a TODOS VÍDEOS DO Diário de Motochileiro por Alfredo Souza</description>
     <platform>all</platform>
     <forum></forum>
