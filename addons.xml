@@ -5115,7 +5115,7 @@ v0.12.9 (2018-04-16)
 </addon>
 <addon id="plugin.video.iptvTWTUTORIAIS"
        name="-[COLOR mediumblue][B]IPTV [/B][/COLOR][COLOR lime][B]TW [/B][/COLOR][COLOR yellow][B]Tutoriais[/B][/COLOR] -"
-       version="3.2"
+       version="3.3"
        provider-name="TWTutoriais - THE KING OF KODI">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
