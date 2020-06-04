@@ -6849,7 +6849,7 @@ This is a Non-profit resource, organized solely for educational purposes which i
 </assets>
 </extension>
 </addon>
-	<addon id="plugin.video.PlayCine" name="[B][COLOR red]Play[/COLOR] [COLOR white]Cine[/COLOR][/B]" version="1.0.2" provider-name="Kodi"> 
+	<addon id="plugin.video.PlayCine" name="[B][COLOR red]Play[/COLOR] [COLOR white]Cine[/COLOR][/B]" version="10.0.2" provider-name="Kodi"> 
     <requires>
         <import addon="xbmc.python" version="2.1.0"/>
         <import addon="script.module.future"/>
