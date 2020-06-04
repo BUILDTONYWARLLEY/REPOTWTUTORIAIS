@@ -5744,9 +5744,9 @@ https://ia801002.us.archive.org
 </assets>
   </extension>
 </addon>
-	<addon id="plugin.video.cangaco"
-       name="Hidra Cangaço"
-       version="5.PenguinoEmperor.0"
+<addon id="plugin.video.cangaco"
+       name="Hidra Tuxedo"
+       version="5.PenguinoEmperor.1"
        provider-name="Kodish MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -5768,8 +5768,8 @@ https://ia801002.us.archive.org
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Hidra Cangaço</summary>
-    <description lang="en">Hidra Cangaço é um addon torrent mais cabra da peste</description>
+    <summary lang="en">Hidra Tuxedo</summary>
+    <description lang="en">Hidra Tuxedo é um addon torrent mais muito mais top </description>
     <platform>all</platform>
   </extension>
  </addon>
