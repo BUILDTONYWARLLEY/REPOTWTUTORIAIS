@@ -2591,7 +2591,7 @@ Favorites can be updated when adding them again with different pictures or names
     <website></website>
   </extension>
 </addon>
-<addon id="plugin.video.formigatv" name="[COLOR blue][B]FORMIGA[COLOR silver][B]tv[/B][/COLOR]" version="999.9.9" provider-name="KODI">
+<addon id="plugin.video.formigatv" name="ZNULL" version="999.9.9" provider-name="PICARETA">
 
   <requires>
 
@@ -2624,9 +2624,9 @@ Favorites can be updated when adding them again with different pictures or names
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR  white][B]Sempre[COLOR  blue][B]Atualizando[/B][/COLOR][COLOR  white][B]..[/B][/COLOR] Morreu ATUALIZANDO...KKK</summary>
-	     <description lang="pt">[B][COLOR cyan]O ADDON[/COLOR][/B][B][COLOR white] é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B] - Morreu ATUALIZANDO...KKK</description>
-		 <disclaimer lang="en">Sua Nova Forma De Ver TV</disclaimer>
+    <summary lang="en"></summary>
+	     <description lang="pt"></description>
+		 <disclaimer lang="en"></disclaimer>
     <platform>all</platform>
  
  </extension>
@@ -4074,7 +4074,7 @@ adulthideout@yandex.com[/COLOR]
 	</extension>
 </addon>
 <addon id="plugin.video.OnePlayHD"
-       name="[B]BANIDO[/B]"
+       name="ZNULL"
        version="999.9.9"
        provider-name="Sem Mundial">
   <requires>
@@ -4873,7 +4873,7 @@ Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes Dublados.</
     <email>beenje AT gmail.com</email>
   </extension>
 </addon>
-<addon id="plugin.video.Nordeste.Tv" name="[COLOR yellow][B]Nordes[/COLOR][COLOR green][B]Tv[/B][/COLOR]" version="999.9.9" provider-name="Luis Carlos">
+<addon id="plugin.video.Nordeste.Tv" name="ZNULL" version="999.9.9" provider-name=".">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -4890,10 +4890,8 @@ Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes Dublados.</
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">NordesTv</summary>
-    <description lang="en">[COLOR yellow]l[/COLOR] TV [COLOR yellow]l[/COLOR] FILMES [COLOR yellow]l[/COLOR] SERIES [COLOR yellow]l[/COLOR] LANCAMENTOS [COLOR yellow]l[/COLOR] HD [COLOR yellow]l[/COLOR] FHD [COLOR yellow]l[/COLOR]
-[COLOR yellow]l[/COLOR] O autor não hospeda nem possui nenhum conteúdo encontrado neste addon. O autor não é responsável pelo uso e pelo conteúdo encontrado neste addon [COLOR yellow]l[/COLOR]
-l [COLOR green][B]Nordes [/B][/COLOR][COLOR yellow][B]TV[/B][/COLOR]- DO CINEMA PARA SUA CASA -[COLOR yellow]l[/COLOR]</description>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -5196,7 +5194,7 @@ Nunca Serão, Jamais Serão![/COLOR]
   </extension>
 </addon>
 <addon id="plugin.video.OnePlay"
-       name="[B]BANIDO[/B]"
+       name="ZNULL"
        version="999.9.9"
        provider-name="Sem Mundial">
   <requires>
@@ -5274,7 +5272,7 @@ Nunca Serão, Jamais Serão![/COLOR]
       </assets>
   </extension>
 </addon>
-<addon id="plugin.video.FORMIGAtv" name="[COLOR  blue][B]FORMIGA[COLOR  silver][B]tv[/B][/COLOR]" version="999.9.9" provider-name="TEAMFORMIGAtv">
+<addon id="plugin.video.FORMIGAtv" name="ZNULL" version="999.9.9" provider-name="PICARETA">
 
   <requires>
 
@@ -5307,9 +5305,9 @@ Nunca Serão, Jamais Serão![/COLOR]
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR  white][B]Sempre[COLOR  blue][B]Atualizando[/B][/COLOR][COLOR  white][B]..[/B][/COLOR]</summary>
-	     <description lang="pt">[B][COLOR cyan]ADDON FORMIGAtv [/COLOR][/B][B][COLOR white] é apenas um AGREGADOR de links e, assim como o Google.com, apenas agrega e organiza os links externos. Não somos responsáveis pelos arquivos aqui encontrados.[/COLOR][/B]</description>
-		 <disclaimer lang="en">FORMIGAtv - Sua Nova Forma De Ver TV</disclaimer>
+    <summary lang="en"></summary>
+	     <description lang="pt"></description>
+		 <disclaimer lang="en"></disclaimer>
     <platform>all</platform>
  
  </extension>
@@ -5341,7 +5339,7 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="plugin.video.NordesTv" name="[COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR]" version="999.9.9" provider-name="luis Carlos">
+<addon id="plugin.video.NordesTv" name="ZNULL" version="999.9.9" provider-name=".">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -5358,12 +5356,8 @@ O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Founda
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">NordeTv</summary>
-    <description lang="en">[COLOR yellow]l[/COLOR] Add-on [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR] esta protegido de usso da lei de direitos autorais especificamente a seção 107.[COLOR yellow]l[/COLOR]O autor é responsável pelo uso deste Add-on. [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR]
-[COLOR yellow]l[/COLOR] O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, [COLOR yellow]l[/COLOR]
-   
-             [COLOR blue][B]Nordes[/B][/COLOR][COLOR white][B]TV[/B][/COLOR]
-[COLOR yellow]l[/COLOR]- DO CINEMA PARA SUA CASA -[COLOR yellow]l[/COLOR]</description>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>
