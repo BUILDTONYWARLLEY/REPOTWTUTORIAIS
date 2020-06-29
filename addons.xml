@@ -4011,7 +4011,7 @@ adulthideout@yandex.com[/COLOR]
         <description lang="en">****ADULT CONTENT***** Watch erotic and sexy videos from YouJizz.com</description>
     </extension>
 </addon>
-<addon id="plugin.video.brlive" name="[COLOR yellow][B]BrLive[/COLOR][COLOR green][B]Channel[/B][/COLOR]" version="999.9.9" provider-name="Mattos">
+<addon id="plugin.video.brlive" name="ZNULL" version="999.9.9" provider-name=".">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -4028,8 +4028,8 @@ adulthideout@yandex.com[/COLOR]
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Addon Br Live</summary>
-    <description lang="en">TODO conteúdo que se encontram aqui no site são encontrados na própria internet,apenas estamos disponibilizando de uma maneira mais facil ao amantes do iptv</description>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -4555,9 +4555,9 @@ Toda a fonte  vem de utilizadores do Youtube.
 </extension>
 </addon>
 <addon id="plugin.video.Live.Tv" 
-       name="[COLOR orange][B][COLOR lime]Live[/COLOR] TV[/B]" 
+       name="ZNULL" 
        version="999.9.9" 
-       provider-name="Live Tv">
+       provider-name=".">
     <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -4579,12 +4579,10 @@ Toda a fonte  vem de utilizadores do Youtube.
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">FILMES [COLOR lime]|[/COLOR] SÉRIES [COLOR lime]|[/COLOR] ANIMES [COLOR lime]|[/COLOR] FILMES MAIS ESPERADOS [COLOR lime]|[/COLOR] COLETÂNEA [COLOR lime]|[/COLOR] TV AO VIVO</summary>
+    <summary lang="en"></summary>
 	
-	<description lang="en">[COLOR lime]|[/COLOR] O autor não hospeda nem possui nenhum conteúdo encontrado neste addon [COLOR lime]|[/COLOR]
-
-MELHOR LISTA DE CANAIS VIA INTERNET  [COLOR orange][B][COLOR lime]LIVE[/COLOR] TV[/B]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<description lang="en"></description>
+	<disclaimer lang="en"></disclaimer>
     <platform>all</platform>
 	<website/>
         <video_guide></video_guide>
@@ -5313,7 +5311,7 @@ Nunca Serão, Jamais Serão![/COLOR]
  </extension>
 
 </addon>
-<addon id="plugin.video.Brlive" name="[COLOR white][B]Br[/B][/COLOR][COLOR red][B]Live[/B][/COLOR]" version="999.9.9" provider-name="Mattos">
+<addon id="plugin.video.Brlive" name="ZNULL" version="999.9.9" provider-name=".">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -5330,12 +5328,8 @@ Nunca Serão, Jamais Serão![/COLOR]
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">TV AO VIVO [COLOR yellow]l[/COLOR] IPTV [COLOR yellow]l[/COLOR]</summary>
-    <description lang="en">O autor não é responsável pelo uso deste addon. [B][COLOR white]Br'[/COLOR][/B][COLOR red]Live[/COLOR]
-	
-O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
-
-[B][COLOR white]Br'[/COLOR][/B][COLOR red]Live[/COLOR] DO MELHOR COM IPTV PARA A SUA CASA [COLOR yellow][B]l[/COLOR][/B]</description>
+    <summary lang="en"></summary>
+    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>
