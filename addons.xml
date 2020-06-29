@@ -3788,9 +3788,9 @@ Thank you !! </description>
   </extension>
 </addon>
 <addon id="plugin.video.fenix.evolution" 
-       name="[B][COLOR firebrick]FENIX[/COLOR][/B]" 
+       name="ZNULL" 
        version="999.9.9" 
-       provider-name="Alderson">
+       provider-name=".">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -3812,13 +3812,10 @@ Thank you !! </description>
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD</summary>
+    <summary lang="en"></summary>
 	
-	<description lang="en">[COLOR firebrick]l[/COLOR] TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD [COLOR firebrick]l[/COLOR]
-[COLOR firebrick]l[/COLOR] O autor não hospeda nem possui nenhum conteúdo encontrado neste addon. O autor não é responsável pelo uso e pelo conteúdo encontrado neste addon [COLOR firebrick]l[/COLOR]
-
-l [COLOR firebrick]FENIX[/COLOR] EVOLUTION - DO CINEMA PARA SUA CASA - 100% HD [COLOR firebrick]l[/COLOR]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<description lang="en"></description>
+	<disclaimer lang="en"></disclaimer>
     <platform>all</platform>
 	<website/>
         <video_guide></video_guide>
@@ -5235,10 +5232,10 @@ Nunca Serão, Jamais Serão![/COLOR]
 </assets>
   </extension>
 </addon>
-<addon id="plugin.video.fenix.flix" 
-       name="[B][COLOR firebrick]FENIX[/COLOR] [COLOR white]FLIX[/COLOR][/B]" 
+<addon id="plugin.video.fenix.evolution" 
+       name="ZNULL" 
        version="999.9.9" 
-       provider-name="Alderson">
+       provider-name=".">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.t0mm0.common" version="2.0.0"/>
@@ -5260,13 +5257,10 @@ Nunca Serão, Jamais Serão![/COLOR]
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD</summary>
+    <summary lang="en"></summary>
 	
-	<description lang="en">[COLOR firebrick]l[/COLOR] TV [COLOR firebrick]l[/COLOR] FILMES [COLOR firebrick]l[/COLOR] SERIES [COLOR firebrick]l[/COLOR] DESENHOS [COLOR firebrick]l[/COLOR] ANIMES [COLOR firebrick]l[/COLOR] LANCAMENTOS [COLOR firebrick]l[/COLOR] HD [COLOR firebrick]l[/COLOR] FHD [COLOR firebrick]l[/COLOR]
-[COLOR firebrick]l[/COLOR] O autor não hospeda nem possui nenhum conteúdo encontrado neste addon. O autor não é responsável pelo uso e pelo conteúdo encontrado neste addon [COLOR firebrick]l[/COLOR]
-
-l [COLOR firebrick]FENIX[/COLOR] FLIX - DO CINEMA PARA SUA CASA - 100% FHD [COLOR firebrick]l[/COLOR]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.</disclaimer>
+	<description lang="en"></description>
+	<disclaimer lang="en"></disclaimer>
     <platform>all</platform>
 	<website/>
         <video_guide></video_guide>
