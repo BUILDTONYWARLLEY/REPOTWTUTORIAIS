@@ -5967,7 +5967,7 @@ https://ia801002.us.archive.org
 </addon>
 	<addon id="plugin.video.YouKids"
        name="[B][COLOR white]YOU[COLOR red]KIDS[/B][/COLOR]"
-       version="0.0.4"
+       version="0.0.5"
        provider-name="@twtutoriais">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
