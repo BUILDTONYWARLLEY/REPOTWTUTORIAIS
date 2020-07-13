@@ -6969,4 +6969,48 @@ This is a Non-profit resource, organized solely for educational purposes which i
     <platform>all</platform>
   </extension>
 </addon>
+	<addon id="plugin.video.XXX-TWTUTORIAIS"
+       name="-[COLOR red][B]XXX[/B][/COLOR]- [COLOR lime][B]TW[/B][/COLOR][COLOR yellow][B]Tutoriais[/B][/COLOR] -"
+       version="1.0"
+       provider-name="TWTutoriais - THE KING OF KODI">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+	<import addon="plugin.video.SportsDevil" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+     <import addon="script.module.livestreamer" optional="true"/>
+     <import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+   <extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
+		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
+	</extension>
+  	
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red]XXX - TWTUTORIAIS - CONTEÚDO ADULTO[/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</summary>
+    <description>
+        [COLOR white][B]Todos os links disponibilizados nesse Addon estão disponíveis 
+em livre procura pela internet.[/B][/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]
+[COLOR yellow][B]ACESSE e INSCREVA-SE no Meu CANAL do YOUTUBE:[/B][/COLOR] 
+http://www.youtube.com/tonywarlley2009
+
+[COLOR yellow]Que DÓ das formiguinhas...kkk
+Nunca Serão, Jamais Serão![/COLOR]
+             
+    </description>
+    <platform>all</platform>
+  </extension>
+</addon>
 </addons>
