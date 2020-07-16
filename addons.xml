@@ -3334,10 +3334,8 @@ Visitem o meu grupo no facebook em: https://www.facebook.com/groups/TeamBlue.add
         </assets>
     </extension>
 </addon>
-<addon id="plugin.video.twtutoriais" name="-[B][COLOR mediumblue]CANAL [/COLOR][COLOR lime]TW[/COLOR][COLOR yellow] TUTORIAIS[/COLOR][/B]-" version="1.0.2" provider-name="Created by TEAM TWTUTORIAIS">
+<addon id="plugin.video.twtutoriais" name="-[B][COLOR mediumblue]CANAL [/COLOR][COLOR lime]TW[/COLOR][COLOR yellow]TUTORIAIS[/COLOR][/B]-" version="1.0.3" provider-name="Created by TEAM TWTUTORIAIS">
   <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
     <import addon="plugin.video.youtube" version="5.0.0"/>
   </requires>
 	
@@ -3354,6 +3352,10 @@ Add-on Retirado ds REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não seja
     <platform>all</platform>
     <forum></forum>
     <website></website>
+	<assets>
+    <icon>icon.png</icon>
+	<fanart>fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon>
 <addon id="plugin.video.alive.hd"
