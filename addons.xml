@@ -2407,17 +2407,6 @@ Favorites can be updated when adding them again with different pictures or names
     <website></website>
   </extension>
 </addon>
-<addon id="plugin.video.CubePlay" name="Cube Play" version="99.04.05" provider-name="CubePlay">
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <description lang="en">[B][COLOR gold][COLOR red]**ATENÇÃO**[/COLOR] ADDON DESCONTINUADO, SUA FUNCIONALIDADE ESTÁ APENAS PARCIAL.[/COLOR][/B]</description>
-    <platform>all</platform>
-	<news>
-	</news>
-  </extension>
-</addon>
 <addon id="plugin.video.desenhos24hrs" name="Desenhos e Series 24 hrs Vip" version="1.0.0" provider-name="Kodish MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -2507,23 +2496,6 @@ Favorites can be updated when adding them again with different pictures or names
 	</description>
     <disclaimer lang="en">
     </disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.miraculusof" name="Miraculus Ladybug" version="2.0.0" provider-name="Kodish MC">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-  <news>
-Add-on Retirado do Canal TONY WARLLEY TUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente no CANAL TONY WARLLEY TUTORIAIS.
-        </news>
-    <summary lang="en">Addon Para Fans de Miraculus Ladybug</summary>
-    <description lang="en">Addon Para Fans de Miraculus Ladybug</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -3054,76 +3026,6 @@ Add-on Retirado ds REPO TONY WARLLEY TUTORIAIS, não baixe Add-ons que não seja
 		<platform>all</platform>
 		<summary lang="en">Scrapers for use in XXXODUS</summary>
 	</extension>
-</addon>
-<addon id="plugin.video.InovaTV"
-       name="[COLOR lime][B]..::[/B][/COLOR] [COLOR white][B]InovaTV[/B][/COLOR] [COLOR lime][B]::..[/B][/COLOR]"
-       version="2.0"
-       provider-name="Rober DJ">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-			
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">InovaTV</summary>
-    <description lang="en">O FUTURO CHEGOU InovaTV</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-<addon id="plugin.video.teamblue"
-       name="[COLOR blue]T[/COLOR]eam[COLOR blue]B[/COLOR]lue Live Events"
-       version="2.4"
-       provider-name="Eduardo Pinto">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="pt">Add-on ao estilo Agenda Desportiva</summary>
-    <description lang="pt">
-O add-on TeamBlue apresenta as seguintes secções:
-Agenda desportiva com transmissões em direto de várias modalidades
-Sports Replays (Futebol-Desportos Motorizados-WWE-UFC-NBA)
-Canais World IPTV (Portugal-Alemanha-Espanha-França-Itália-Inglaterra-Brasil-Estados Unidos-Adultos) 
-Canais Arenavision (para ver com o Plexus)
-Webcam's
-NOTA: para a correta visualização de alguns canais é necessário ter instalados: 
-f4mtester – f4mproxy - Sports Devil – Plexus
-O criador deste addon não possui nem está ligado de nenhuma forma ao conteúdo nele disponibilizado.
-Apenas disponibiliza conteúdos de terceiros	
-	</description>
-    <platform>all</platform>
-  </extension>
 </addon>
 <addon id="repository.TeamBlue" name="[COLOR blue]T[/COLOR]eam[COLOR blue]Blue[/COLOR]" version="1.1" provider-name="TeamBlue Live Events">
 	<extension point="xbmc.addon.repository" name="VietKodi Addon Repository">
@@ -4341,33 +4243,6 @@ Toda a fonte  vem de utilizadores do Youtube.
                 <platform>all</platform>
         </extension>
 </addon>
-<addon id="plugin.video.xxx.ghost" name="[B][COLOR skyblue]Ghost [/COLOR][COLOR red]XXX[/COLOR][/B]" version="1.0.3" provider-name="Team Ghost">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>[COLOR skyblue]Ghost [/COLOR][COLOR red]XXX[/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</summary>
-    <description>[COLOR skyblue]Ghost [/COLOR][COLOR red]XXX[/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</description>
-	<disclaimer>Não assumimos qualquer responsabilidade por quaisquer problemas que este plug-in possa causar .</disclaimer>
-    <platform>all</platform>
-  </extension>
-</addon>
 <addon id="plugin.video.rodasemotores"
        name="Rodas e Motores"
        version="2.2"
@@ -4450,41 +4325,6 @@ Toda a fonte  vem de utilizadores do Youtube.
     <email></email>
     <source></source>
  </extension>
-</addon>
-<addon id="plugin.video.liquidtv"
-       name="[COLOR white][B][COLOR blue] LIQUID TV [/COLOR][/B][/COLOR]"
-       version="0.6.0"
-       provider-name="MatheuZ e Bruno Santos">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" /> 
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR yellow]LIQUID TV[/COLOR]</summary>
-    <description lang="en">
-        [COLOR red][B] ∆ PROIBIDO A VENDA DESTE ADDON ∆ [/B][/COLOR] - [COLOR lime][B]* GRANDE MERDA ...kkk *[/B][/COLOR]
-
-[COLOR white][B]ATENCÃO:[/B][/COLOR] Este addon é apenas um agregador de links de transmissão publicas feitas por terceiros. Não hospedamos nem temos ligaçãoo com nenhum desses conteúdos. A estabilidade 100% dos canais nãoo é garantida. Fique atento a atualizações futuras.
-
-Requer o addon [COLOR yellow]GDrive[/COLOR] para funcionar Os Filmes Dublados.</description>
-    <platform>all</platform>
-  </extension>
 </addon>
 <addon id="plugin.video.9anime" name="9Anime" provider-name="DxCx" version="0.0.51">
   <requires>
@@ -5283,21 +5123,6 @@ Nunca Serão, Jamais Serão![/COLOR]
 	</extension>
 	
 </addon>
-<addon id="plugin.video.MMmaroto" name="-[B][COLOR yellow]MM[/COLOR] [COLOR lime]Maroto[/COLOR][/B]-" version="1.7.5" provider-name="Team TWT and KODISH">
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">[COLOR yellow]MM TWTUTORIAIS and KODISH MC[/COLOR]</summary>
-    <description lang="en">Não somos responsáveis por colocar o conteúdo online, apenas indexamos. Para sugestões use nossa página no FACEBOOK: [COLOR mediumblue]https://www.facebook.com/BuildTonyWarlley/[/COLOR] ou [COLOR mediumblue]https://www.facebook.com/groups/kodish/[/COLOR][COLOR lime] [B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</description>
-	<disclaimer lang="en">O autor não é de forma alguma afiliado à Kodi, à Team Kodi ou à XBMC Foundation. Este é um recurso sem fins lucrativos, organizado exclusivamente para fins educacionais e protegido pela doutrina de uso justo da Lei de Direitos Autorais, especificamente a seção 107, que promove a liberdade de expressão, permitindo o uso não licenciado de obras protegidas por direitos autorais.
-	[COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS e KODISH STORE[/B][/COLOR]</disclaimer>
-    <platform>all</platform>
-	<news>PALMEIRAS NÃO TEM MUNDIAL.
-	</news>
-  </extension>
-</addon>
 <addon id="plugin.video.kratosteam"
        name="-[COLOR green][B]KRATOS [/COLOR][COLOR yellow]KODI BR[/B][/COLOR]-"
        version="2020.kubernotes.mx.1"
@@ -5487,7 +5312,6 @@ https://ia801002.us.archive.org
     <platform>all</platform>
   </extension>
 </addon>
-</addon>
 	<addon id="plugin.video.GAVIAOPLAY"
        name="[COLOR white][B]GAVIAO PLAY[/B][/COLOR]"
        version="1.0"
@@ -5674,48 +5498,6 @@ Nunca Serão, Jamais Serão![/COLOR]
     <platform>all</platform>
  
   </extension>
-</addon>
-	<addon id="plugin.video.divas" version="1.0.0" name="[B][COLOR orange]Divas[/COLOR][/B]" provider-name="Cy4Root">
-
-	<requires>
-		<import addon="xbmc.python" version="2.19.0" />
-		<import addon="script.module.requests" />
-		<import addon="script.module.beautifulsoup4" />
-		<import addon="script.module.metahandler" />
-		<import addon="script.module.resolveurl" />
-		<import addon="script.module.openscrapers" />
-        	<import addon="plugin.video.youtube" />
-	</requires>
-
-	<extension point="xbmc.python.pluginsource" library="divas.py">
-		<provides>video</provides>
-	</extension>
-
-	<extension point="xbmc.service" library="service.py" start="startup" />
-	<extension point="xbmc.python.module" library="resources/lib/"/>
-
-	<extension point="xbmc.addon.metadata">
-		<summary lang="en">[B][COLOR red]Divas[/COLOR][/B] We do not host any of the contents streamed</summary>
-		<description lang="en">This addon does not form part of the Kodi Media Centre. Please do not seek assistance with this addon from any of the Official Kodi Support Channels.[CR]The author does not host any of the content in this addon and takes no responsibility for content found.</description>
-		<platform>all</platform>
-		<license>GNU GENERAL PUBLIC LICENSE. Version 3, 29 June 2007</license>
-		<forum></forum>
-		<website></website>
-		<source></source>
-		<disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-		<assets>
-			<icon>icon.png</icon>
-			<fanart>fanart.jpg</fanart>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-			<screenshot></screenshot>
-		</assets>
-		<news>
-[B][COLOR gold]Update - v1.0.0 - February 4, 2020[/COLOR][/B]
-   A New Addon are born
-		</news>
-	</extension>
-
 </addon>
 	<addon id="script.adultflix.artwork" version="1.0.0" name="AdultFlix Artwork" provider-name="TV ADDONS">
 	<requires>
