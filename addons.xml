@@ -5947,6 +5947,7 @@ Toda a fonte  vem de utilizadores do Youtube.
         <screenshot></screenshot>      
     </assets>
   </extension>
+</addon>
 <addon id="script.module.exoscrapers" name="ExoScrapers Module" version="2.3.6" provider-name="Exodus">
     <requires>
 		<import addon="xbmc.python" version="2.25.0" />
