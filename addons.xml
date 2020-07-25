@@ -6297,23 +6297,6 @@ This is a Non-profit resource, organized solely for educational purposes which i
 </assets>
 </extension>
 </addon>
-	<addon id="plugin.video.PlayCine" name="[B][COLOR red]Play[/COLOR] [COLOR white]Cine[/COLOR][/B]" version="10.0.2" provider-name="Kodi"> 
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-        <import addon="script.module.future"/>
-		<import addon="script.module.simplejson"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="main.py">
-        <provides>video</provides>
-    </extension>
-
-    <extension point="xbmc.addon.metadata">
-        <summary>Play Cine para sua Familia.</summary>
-        <description>Play Cine oferece as melhores séries e filmes para você no seu kodi.</description>
-        <disclaimer>PlayCine não hospeda os conteudos, todos os filmes e series são links agregados ao addon.</disclaimer>
-        <platform>all</platform>
-    </extension>
-</addon>
 <addon id="plugin.video.pikachu"
        name="[B][COLOR yellow][B]PIKACHU [COLOR lime] ENTRETENIMENTOS!!![/B][/COLOR]"
        version="40.1"
@@ -6506,6 +6489,27 @@ Nunca Serão, Jamais Serão![/COLOR]
         <description lang="hr">Prilagodi najčešće URL-ove video izvora kako bi radili u XBMC/Kodiju, pojednostavnjuje razvoj priključaka za video dodatke koji zahtjevaju višestruke video izvore.</description>
         <forum>https://www.tvaddons.co/forums</forum>
         <website>https://www.tvaddons.co</website>
+    </extension>
+</addon>
+	<addon id="plugin.video.FlixCine" name="[B][COLOR yellow]Flix[/COLOR][COLOR lime]Cine[/COLOR][/B]" version="10.0.3" provider-name="Kodi"> 
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="script.module.future"/>
+		<import addon="script.module.simplejson"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="main.py">
+        <provides>video</provides>
+    </extension>
+   <extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
+		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
+	</extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>[B][COLOR yellow]Flix[/COLOR][COLOR lime]Cine[/COLOR][/B] para sua Família.</summary>
+        <description>[B][COLOR yellow]Flix[/COLOR][COLOR lime]Cine[/COLOR][/B] Oferece sempre as melhores Séries e os Melhores Lançamentos de Filmes para você.</description>
+        <disclaimer>[B][COLOR yellow]Flix[/COLOR][COLOR lime]Cine[/COLOR][/B] Não hospeda os conteúdos, Todos os Filmes e Séries são links disponíveis em livre procura pela internet.</disclaimer>
+        <platform>all</platform>
     </extension>
 </addon>
 </addons>
