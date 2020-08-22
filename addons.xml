@@ -6633,7 +6633,7 @@ Nunca Serão, Jamais Serão![/COLOR]
 </assets>
   </extension>
 </addon>
-	<addon id="plugin.video.FLIXPemium" name="-[B][COLOR lime]FLIX[/COLOR] [COLOR yellow]Premium[/COLOR][/B]-" version="10.0.0" provider-name="Team TWTUTORIAIS">
+	<addon id="plugin.video.FLIXPemium" name="-[B][COLOR lime]FLIX[/COLOR] [COLOR yellow]Premium[/COLOR][/B]-" version="10.0.1" provider-name="Team TWTUTORIAIS">
   <extension point="xbmc.python.pluginsource" library="default.py">
         <provides>video</provides>
   </extension>
