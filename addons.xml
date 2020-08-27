@@ -3403,7 +3403,7 @@ www.brasilfull.gq</news>
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="plugin.video.casteloratimbum" version="1.0.0" name="Castelo Rá-Tim-Bum!" provider-name="Kodish-MC">
+<addon id="plugin.video.casteloratimbum" version="2.0.0" name="Castelo Rá-Tim-Bum!" provider-name="Kodish-MC">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
