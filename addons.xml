@@ -5959,44 +5959,4 @@ Nunca Serão, Jamais Serão![/COLOR]
 	<news></news>
   </extension>
 </addon>
-	<addon id="repo.XXX.MEGAREPO.TWT" name="-[B][COLOR white].[/COLOR][COLOR red]XXX[/COLOR].[COLOR mediumblue]MEGA[/COLOR][COLOR lime]REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="1.1" provider-name="MEGAREPO SÓ ADULTOS by TWTUTORIAIS">
-<requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.urlresolver" />
-    <import addon="script.module.simplejson" />    
-    <import addon="script.module.livestreamer"/>
-    <import addon="script.module.pyamf"/>
-    <import addon="script.common.plugin.cache" version="2.6.1"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
-	<import addon="script.module.addon.signals" version="0.0.1"/>
-	<import addon="script.module.youtube.dl"/>
-</requires>
-	<extension point="xbmc.addon.repository" name="XXX MEGAREPO TWTutoriais">
-		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/XXX/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/XXX/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/XXX/Plugins/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-	  <news>
-[COLOR red]REPO ADULTA INSTALADA VIA MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
-
-        </news>
-		<summary>NOVIDADE - [COLOR red]XXX - MEGAREPO SÓ ADULTOS TWTUTORIAIS - CONTEÚDO ADULTO[/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</summary>
-		<description>[COLOR red]REPOSITÓRIO SÓ PARA ADULTOS INSTALADO VIA MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
-[COLOR lime][B]Repositório MEGAREPO TWTutoriais - Proibida Cópia e Reprodução sem Autorização.[/B][/COLOR]
-[COLOR yellow]Que DÓ das formiguinhas...kkk
-Nunca Serão, Jamais Serão![/COLOR]
-		</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
 </addons>
