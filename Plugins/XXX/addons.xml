@@ -420,7 +420,7 @@ v5.0.15 (2016-11-26) by amet
 </addon>
 <addon
   id="resource.language.pt_br"
-  version="3.0.15"
+  version="3.0.16"
   name="Portuguese (Brazil)"
   provider-name="Team Kodi">
   <requires>
