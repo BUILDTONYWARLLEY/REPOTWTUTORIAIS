@@ -2196,7 +2196,7 @@ Scraped sources include: chaturbate, collectionsofbestporn, daftporn, drtuber, e
 </addon>
 	<addon id="plugin.video.XXX-TWTUTORIAIS"
        name="-[COLOR red][B]XXX[/B][/COLOR]- [COLOR lime][B]TW[/B][/COLOR][COLOR yellow][B]Tutoriais[/B][/COLOR] -"
-       version="1.0"
+       version="1.1"
        provider-name="TWTutoriais - THE KING OF KODI">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
