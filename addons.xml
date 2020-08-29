@@ -5959,7 +5959,7 @@ Nunca Serão, Jamais Serão![/COLOR]
 	<news></news>
   </extension>
 </addon>
-	<addon id="repo.XXX.MEGAREPO.TWT" name="-[B][COLOR white].[/COLOR][COLOR red]XXX[/COLOR].[COLOR mediumblue]MEGA[/COLOR][COLOR lime]REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="1.0" provider-name="MEGAREPO SÓ ADULTOS by TWTUTORIAIS">
+	<addon id="repo.XXX.MEGAREPO.TWT" name="-[B][COLOR white].[/COLOR][COLOR red]XXX[/COLOR].[COLOR mediumblue]MEGA[/COLOR][COLOR lime]REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="1.1" provider-name="MEGAREPO SÓ ADULTOS by TWTUTORIAIS">
 <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -5973,7 +5973,7 @@ Nunca Serão, Jamais Serão![/COLOR]
     <import addon="script.module.simplejson" />    
     <import addon="script.module.livestreamer"/>
     <import addon="script.module.pyamf"/>
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.common.plugin.cache" version="2.6.1"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
 	<import addon="script.module.addon.common" />
 	<import addon="script.module.addon.signals" version="0.0.1"/>
@@ -5986,7 +5986,7 @@ Nunca Serão, Jamais Serão![/COLOR]
 	</extension>
 	<extension point="xbmc.addon.metadata">
 	  <news>
-[COLOR white]REPO ADULTA INSTALADA VIA MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
+[COLOR red]REPO ADULTA INSTALADA VIA MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
 
         </news>
 		<summary>NOVIDADE - [COLOR red]XXX - MEGAREPO SÓ ADULTOS TWTUTORIAIS - CONTEÚDO ADULTO[/COLOR] - [COLOR lime][B]Addon EXCLUSIVO MEGAREPO TWTUTORIAIS[/B][/COLOR]</summary>
