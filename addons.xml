@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.TorrentBR" name="-[COLOR white]-=[/COLOR][B][COLOR green]Torrent[/COLOR][COLOR gold]BR[/COLOR][/B][COLOR white]=-[/COLOR]-" version="20.23" provider-name="Kodish Team"> 
+<addon id="plugin.video.TorrentBR.Matrix" name="-[COLOR white]-=[/COLOR][B][COLOR green]Torrent[/COLOR][COLOR gold]BR[/COLOR][/B][COLOR white]=-[/COLOR]-" version="20.23" provider-name="Kodish Team"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
     <import addon="script.module.requests"/>
