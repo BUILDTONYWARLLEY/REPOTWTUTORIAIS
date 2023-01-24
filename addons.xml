@@ -2856,38 +2856,17 @@ This is a Non-profit resource, organized solely for educational purposes which i
 		<platform>all</platform>
 	</extension>
 </addon>
-<addon id="repo.TWTUTORIAIS" name="-[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="5.0" provider-name="repo.TWTUTORIAIS">
-<requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.urlresolver" />
-    <import addon="script.module.simplejson" />    
-    <import addon="script.module.livestreamer"/>
-    <import addon="script.module.pyamf"/>
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
-	<import addon="script.module.addon.signals" version="0.0.1"/>
-	<import addon="script.module.youtube.dl"/>
-</requires>
-	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Plugins/</datadir>
+<addon id="repo.TWTUTORIAIS" name="-[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="7.0" provider-name="[B][COLOR lime]TWTutoriais - YES, I'M THE BEST[/COLOR][/B]">
+<extension point="xbmc.addon.repository" name="[COLOR yellow]Repositorio TWTutoriais[/COLOR]">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/addons.xml.md5</checksum>
+			<datadir zip="false">https://github.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/tree/master/Plugins/</datadir>
+		</dir>
+
+
 	</extension>
 	<extension point="xbmc.addon.metadata">
-	  <news>
-[COLOR white]Add-on INSTALADO VIA REPO MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
-
-
-[COLOR lime]E o Palmeiras não tem Mundial[/COLOR]
-        </news>
 		<summary>Repositorio MEGAREPO TWTutoriais</summary>
 		<description>[COLOR mediumblue]Add-on INSTALADO VIA REPO MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
 [COLOR lime][B]Repositório MEGAREPO TWTutoriais - Proibida Cópia e Reprodução sem Autorização.[/B][/COLOR]
@@ -2895,8 +2874,11 @@ This is a Non-profit resource, organized solely for educational purposes which i
 [COLOR yellow]Que DÓ das formiguinhas...kkk
 Nunca Serão, Jamais Serão![/COLOR]
 		</description>
-		<disclaimer></disclaimer>
 		<platform>all</platform>
+		<assets>
+			<icon>icon.png</icon>
+			<fanart>fanart.jpg</fanart>
+        </assets>
 	</extension>
 </addon>
 <addon id="plugin.video.elysium" version="2018.01.18" name="Elysium" provider-name="Elysium">
@@ -6058,7 +6040,6 @@ IMDb: 6.9
     </assets>
   </extension>
 </addon>
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.TorrentBR" name="-[COLOR white]-=[/COLOR][COLOR green]Torrent[/COLOR][COLOR gold]BR[/COLOR][COLOR white]=-[/COLOR]-" version="20.23" provider-name="Kodish Team"> 
 <requires>
     <import addon="xbmc.python" version="3.0.0"/>
@@ -6689,49 +6670,6 @@ NOVO [COLOR white]-=[/COLOR][COLOR green]Torrent[/COLOR][COLOR gold]BR[/COLOR][C
     </description>
     <platform>all</platform>
   </extension>
-</addon>
-<addon id="repo.TWTUTORIAIS" name="-[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="5.1" provider-name="repo.TWTUTORIAIS">
-<requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.urlresolver" />
-    <import addon="script.module.simplejson" />    
-    <import addon="script.module.livestreamer"/>
-    <import addon="script.module.pyamf"/>
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="script.module.addon.common" />
-	<import addon="script.module.addon.signals" version="0.0.1"/>
-	<import addon="script.module.youtube.dl"/>
-</requires>
-	<extension point="xbmc.addon.repository" name="Repositorio TWTutoriais">
-		<info compressed="false">http://qdodasformiguinhas.site/cuzoes/cuzoes2/newup/newmegarepo/addons.xml</info>
-		<checksum>http://qdodasformiguinhas.site/cuzoes/cuzoes2/newup/newmegarepo/addons.xml.md5</checksum>
-		<datadir zip="true">http://qdodasformiguinhas.site/cuzoes/cuzoes2/newup/newmegarepo/Plugins/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-	  <news>
-[COLOR white]Add-on INSTALADO VIA REPO MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
-
-
-[COLOR lime]E o Palmeiras não tem Mundial[/COLOR]
-        </news>
-		<summary>Repositorio MEGAREPO TWTutoriais</summary>
-		<description>[COLOR mediumblue]Add-on INSTALADO VIA REPO MEGAREPO TWTUTORIAIS, não baixe Add-ons que não sejam Oficial, Add-ons Oficiais somente na MEGAREPO.[/COLOR]
-[COLOR lime][B]Repositório MEGAREPO TWTutoriais - Proibida Cópia e Reprodução sem Autorização.[/B][/COLOR]
-
-[COLOR yellow]Que DÓ das formiguinhas...kkk
-Nunca Serão, Jamais Serão![/COLOR]
-		</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-	</extension>
 </addon>
 <addon id="weather.gismeteo" version="10.5.2" name="Gismeteo" provider-name="vl.maksime">
 	<requires>
