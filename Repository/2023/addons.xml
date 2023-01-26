@@ -34,8 +34,8 @@ NOVO [COLOR white]-=[/COLOR][COLOR green]Torrent[/COLOR][COLOR gold]BR[/COLOR][C
 <addon id="repo.TWTUTORIAIS" name="-[B][COLOR white].[/COLOR][COLOR mediumblue]MEGA[/COLOR][COLOR lime] REPO[/COLOR][COLOR yellow] TWTutoriais[/B][/COLOR]-" version="7.0" provider-name="[B][COLOR lime]TWTutoriais - YES, I'M THE BEST[/COLOR][/B]">
 <extension point="xbmc.addon.repository" name="[COLOR yellow]Repositorio TWTutoriais[/COLOR]">
 <dir>
-<info compressed="false">https://github.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/tree/master/Repository/2023/addons.xml</info>
-<checksum>https://github.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/tree/master/Repository/2023/addons.xml.md5</checksum>
+<info compressed="false">https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Repository/2023/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/master/Repository/2023/addons.xml.md5</checksum>
 <datadir zip="false">https://github.com/BUILDTONYWARLLEY/REPOTWTUTORIAIS/tree/master/Repository/2023/install</datadir>
 </dir>
 </extension>
